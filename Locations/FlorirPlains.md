@@ -6,7 +6,7 @@ This city guards the road into the Lasfaedon Forest that continues on to the cit
 Few non-elves are allowed beyond this point into the Lasfaedon Forest.
 
 | ... | ... | ... | ... |
-| ------------ | ---------------------------------- | ------------- | ------------------------------------ |
+| --- | --- | --- | --- |
 | Population:  | 4000                               | Demographics: | 50% elves, 25% humans, 20% halflings |
 | Government:  | League of Sheriffs                 | Defenses:     | Shireguard                           |
 | Commerce:    | Elven craft; medicine; agriculture | Atmosphere:   | ...                                  |
@@ -17,7 +17,7 @@ Few non-elves are allowed beyond this point into the Lasfaedon Forest.
 A quiet farming city planted in the middle of the plains between the Lacudin River and the southern reaches of the Lasfaedon Forest.
 
 | ... | ... | ... | ... |
-| ------------ | -------------------------------------------------------- | ------------- | ------------------------- |
+| --- | --- | --- | --- |
 | Population:  | 3000                                                     | Demographics: | 50% halflings, 40% humans |
 | Government:  | League of Sheriffs                                       | Defenses:     | Shireguard                |
 | Commerce:    | Agriculture (produce, livestock, tools), herbal medicine | Atmosphere:   | Agricultural center       |
@@ -33,7 +33,7 @@ Where these two sides of everyday life meet in the middle of the city is the mar
 The portion of the city bordering the drawbridge that spans the Lacudin River is rather heavily fortified and garrisoned by the Shireguard, who stand watch against the dangers of the Scarred Lands.
 
 | ... | ... | ... | ... |
-| ------------ | ------------------ | ------------- | ------------------------------------ |
+| --- | --- | --- | --- |
 | Population:  | 5000               | Demographics: | 50% humans, 25% halflings, 20% elves |
 | Government:  | League of Sheriffs | Defenses:     | Shireguard                           |
 | Commerce:    | Yes                | Atmosphere:   | Bustling port city                   |
