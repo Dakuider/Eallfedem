@@ -13,6 +13,7 @@ A mountain range stretching about 200 miles from north to south along a slightly
 
 Capital city/mine of the Dwarves in the southern Bindanroc Mountains.
 
+| ... | ... | ... | ... |
 | ------------ | --- | ------------- | --- |
 | Population:  | ... | Demographics: | ... |
 | Government:  | ... | Defenses:     | ... |
@@ -23,6 +24,7 @@ Capital city/mine of the Dwarves in the southern Bindanroc Mountains.
 
 Capital city/mine of the dwarves in the northern Bindanroc Mountains.
 
+| ... | ... | ... | ... |
 | ------------ | --- | ------------- | --- |
 | Population:  | ... | Demographics: | ... |
 | Government:  | ... | Defenses:     | ... |
