@@ -5,6 +5,10 @@
 This city guards the road into the Lasfaedon Forest that continues on to the city of Faerisped.
 Few non-elves are allowed beyond this point into the Lasfaedon Forest.
 
+### Mirhem Academy
+
+A campus established by the Order of the Tome that accepts students who wish to become archeologists or wizards.
+
 | ... | ... | ... | ... |
 | --- | --- | --- | --- |
 | Population:  | 4000                               | Demographics: | 50% elves, 25% humans, 20% halflings |
