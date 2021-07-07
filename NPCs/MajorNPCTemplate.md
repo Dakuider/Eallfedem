@@ -1,5 +1,7 @@
 # NPC Name
-## Alignment
+### Alignment
+
+## Role
 
 _Occupation/history?_
 
@@ -40,3 +42,20 @@ _Bond?_
 _Flaw or secret?_
 
 >
+
+## Stat Block
+
+| Armor Class | Hit Points | Speed | Senses |
+| --- | --- | --- | --- |
+| ... | ... | ... | ... |
+
+### Actions
+
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| ... | ... | ... | ... | ... | ... |
+
+### Skills
+
+### Languages
