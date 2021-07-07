@@ -1,5 +1,4 @@
-# Lathander
-## Goddess of Truth and the Light of the Sun
+# Lathander, goddess of Truth and the Light of the Sun
 ### Neutral Good, Light domain
 
 Lathander gazed upon the existing star that cast its dim light over the chaotic world below and decided something must be done.
