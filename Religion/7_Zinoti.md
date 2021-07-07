@@ -1,8 +1,6 @@
 # Žinóti, god of Magic and Secrets
 ### Chaotic Neutral, Knowledge domain
 
-#### Žinoplasm Embedding, Circa 723BE - 18BE
-
 Žinóti imbued Eallfedem with magic in the form of žinoplasm, a substance pulsing with magical energy.
 He embedded žinoplasm deep in earth, creating ley lines of power that criss-crossed the land.
 
