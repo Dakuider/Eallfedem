@@ -8,4 +8,5 @@ During this time, kingdoms of men began to take shape.
 ### Circa 1375 - 3500 AE
 
 While there weren’t wars between the kingdoms of Solantis for the entirety of 2000 years, there might well have been.
+Solantian culture is drenched in competition, honor, and revenge, and this manifested itself as near constant wars and showings of power between the kingdoms.
 So-called “peace” times were wrought with espionage and border skirmishes.
