@@ -22,7 +22,7 @@ _How far is the reach of the faction?_
 
 _Who/when/why was the subfaction founded?_
 
-> A group of Thieves Guild operatives founded the Hoods in 4267 AE in response to the Visregh Empire bringing slaves to Midlatrexan for sale.
+> A group of Thieves Guild operatives founded the Hoods in 4267 AE in response to the Ryūjin Empire bringing slaves to Midlatrexan for sale.
 
 _What do the members of the subfaction do?_
 

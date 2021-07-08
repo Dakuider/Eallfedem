@@ -27,12 +27,12 @@ Most of the lizardfolk followed their master, but some are said to have remained
 A faction of frost giants came forth from the frozen plains north of the Ausrad Hills forcing the Nords and dwarves into a fragile alliance.
 This alliance was strengthened with each heroic victory taken as the Nords and dwarves drove the frost giants back into the frozen plains.
 
-## The Visregh Empire Landing
+## The Ryūjin Empire Landing
 ### Circa 4111 AE
 
 Upon learning that there were new lands to be conquered, the Empire that dominated the continent of Solantis began to expand onto the southwestern coast of Arcmont.
-They deemed this area the Dragon Coast (based on its cartography).
-They brought with them a culture of strict laws, a thirst for conquest, and a practice of enslaving the tiefling race (which was also new to Arcmont).
+They deemed this area the Dragon Coast (based on its cartography and in honor of their god Bishamon's role in the War with Nessus).
+They brought with them a culture of strict laws, a thirst for conquest, and a practice of enslaving the tiefling race.
 
 ## Present Time
 ### Circa 4294 AE
