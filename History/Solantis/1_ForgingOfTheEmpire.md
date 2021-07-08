@@ -12,7 +12,7 @@ The army of tieflings and devils quickly gained the upper hand in the conflicts 
 Upon seeing this great darkness enter the land over the course of several years, many of the other kingdoms decided to form an alliance united under King Sudeiman Visregh to put a stop to what would surely be the doom of the Solantians.
 The war lasted for almost a century, but the alliance under King Sudeiman was eventually victorious.
 Following this victory and the closing of the portal to Nessus, the tieflings were enslaved as recompense for their actions.
-Additionally, the alliance outlawed the worship of and interaction with any deity besides Hextor.
+Additionally, the alliance outlawed the worship of and interaction with any deity besides Bishamon.
 
 ## Founding of the Visregh Empire
 ### Circa 3536 AE

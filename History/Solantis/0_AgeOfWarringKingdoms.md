@@ -1,7 +1,7 @@
-# The Coming of Hextor
+# The Coming of Bishamon
 ### Circa 1137 AE
 
-A time when the god Hextor walked amongst the humans on the continent of Solantis.
+A time when the god Bishamon walked amongst the humans on the continent of Solantis.
 During this time, kingdoms of men began to take shape.
 
 # The Age of Warring Kingdoms
