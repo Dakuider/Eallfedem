@@ -19,3 +19,15 @@ As a teenager, Calix found a cave that led to the Elder Caverns.
 After being ambushed by lizardfolk, they took him to their leader, Bhelvaengr the black dragon.
 Sensing Calix’s hatred towards civilization and his arcane curiosity, Bhelvaengr decided that he’d be better left alive than tortured and eaten as typical prey.
 Over time, Bhelvaengr taught Calix old powerful magic and continued to fuel his hatred of the civilization that shunned his people.
+
+## Villainous Plan
+
+1. Emerge from Bhelvaengr's lair in the Elder Caverns and return to his tribe.
+1. Become the leader of his tribe by showcasing the power bestowed upon him by Bhelvaengr.
+1. Establish stronghold in ruined city of [LAKE CITY](../Locations/ScarredLands.md#ruins-of-lake-city).
+1. Begin making alliances with other tribes and gathering power.
+
+_TODO_:
+ - Need to figure out how/when/why a team is assembled to attack Tomespire to attempt to retrieve the Binding Gem used to bind Bhelvaengr to his lair
+ - Does Fort Soleil get attacked because of the threat that it poses?
+ - Should campaign include chase to stop the Binding Gem being delivered to Bhelvaengr?
