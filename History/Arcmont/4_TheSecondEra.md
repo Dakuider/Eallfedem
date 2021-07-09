@@ -27,7 +27,7 @@ Most of the lizardfolk followed their master, but some are said to have remained
 A faction of frost giants came forth from the frozen plains north of the Ausrad Hills forcing the Nords and dwarves into a fragile alliance.
 This alliance was strengthened with each heroic victory taken as the Nords and dwarves drove the frost giants back into the frozen plains.
 
-## The Ryūjin Empire Landing
+## The Ryuu Empire Landing
 ### Circa 4111 AE
 
 Upon learning that there were new lands to be conquered, the Empire that dominated the continent of Solantis began to expand onto the southwestern coast of Arcmont.
