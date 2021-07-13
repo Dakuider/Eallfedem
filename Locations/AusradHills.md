@@ -20,7 +20,7 @@ Capital city/mine of the Dwarves in the southern Bindanroc Mountains.
 | Commerce:    | ... | Atmosphere:   | ... |
 | Religion(s): | ... | Faction(s):   | ... |
 
-## “Cold Cave”
+## Kahfalbaz
 
 Capital city/mine of the dwarves in the northern Bindanroc Mountains.
 
