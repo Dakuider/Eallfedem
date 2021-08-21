@@ -5,10 +5,6 @@
 This city guards the road into the Lasfaedon Forest that continues on to the city of Faerisped.
 Few non-elves are allowed beyond this point into the Lasfaedon Forest.
 
-### Mirhem Academy
-
-A campus established by the Order of the Tome that accepts students who wish to become archeologists or wizards.
-
 | ... | ... | ... | ... |
 | --- | --- | --- | --- |
 | Population:  | 4000                               | Demographics: | 50% elves, 25% humans, 20% halflings |
@@ -16,13 +12,18 @@ A campus established by the Order of the Tome that accepts students who wish to 
 | Commerce:    | Elven craft; medicine; agriculture | Atmosphere:   | ...                                  |
 | Religion(s): | Elven gods; Founding Family        | Faction(s):   | Sylvan Keepers                       |
 
+### Mirhem Academy
+
+A campus established by the Order of the Tome that accepts students who wish to become archeologists or wizards.
+
 ## Bloomington
 
-A quiet farming city planted in the middle of the plains between the Lacudin River and the southern reaches of the Lasfaedon Forest.
+An agricultural center planted in the middle of the plains between the Lacudin River and the southern reaches of the Lasfaedon Forest.
+Bloomington is the capital city of the League of Sherrifs, and is the location where the peoples of the Florir plains first emerged from the Elder Caverns.
 
 | ... | ... | ... | ... |
 | --- | --- | --- | --- |
-| Population:  | 3000                                                     | Demographics: | 50% halflings, 40% humans |
+| Population:  | 5000                                                     | Demographics: | 50% halflings, 40% humans |
 | Government:  | League of Sheriffs                                       | Defenses:     | Shireguard                |
 | Commerce:    | Agriculture (produce, livestock, tools), herbal medicine | Atmosphere:   | Agricultural center       |
 | Religion(s): | Founding Family                                          | Faction(s):   | ...                       |
