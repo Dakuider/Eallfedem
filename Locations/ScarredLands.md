@@ -13,6 +13,6 @@ To the east of the Scarred Lands is Blackmire, a swamp that stretches for miles 
 
 ## Ruins of Coastal City
 
-## Ruins of Lake City
+## Ruins of Dirkenmos City
 
 ## Ruins of Central City
