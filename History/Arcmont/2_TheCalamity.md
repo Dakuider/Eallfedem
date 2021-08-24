@@ -6,6 +6,12 @@ He blamed the All-Father for his failures, seeing his given dominions as only to
 In his frustrations he cast a great curse of undeath upon Arcmount that caused every dead creature to rise from its grave and attack the living.
 The war would last for centuries and ravage the lands.
 
+## Zinoplasm Weaponization Experiments
+
+Deep into the Calamitous War, a group of people from the region which would later become the Vetrupyr Wastes discovered a vein of Zinoplasm.
+Hearing of the success of the gnomes and dwarves in harnessing it's energy for production, they began to study making use of it as a weapon.
+It's believed that these experiments were unsuccessful, and any research left behind by this group was lost during The Fall.
+
 ## Vetrupyr Intervention
 ### Circa 2759 AE
 
