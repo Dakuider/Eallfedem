@@ -10,7 +10,7 @@ Because of this depth, zinoplasm is generally only found in mines.
 ## Interaction with Zinoplasm
 
 Being in proximity to zinoplasm affects living beings and magical items.
-Exposure to zinoplasm is measured in AEUs (AEUs), and it dependent upon time, distance, and shielding.
+Exposure to zinoplasm is measured in Accumulated Exposure Units (AEUs), and it dependent upon time, distance, and shielding.
 
 ## Gaining Exposure Units
 
@@ -58,7 +58,29 @@ When your number of exposure units increases by 1, roll a d20 and follow the ins
 
  - _1_: You take _n_d4 lightning damage, where _n_ is the number of AEUs you have.
  - _2-3_: You regain a spent spell slot, starting with the highest level spent spell slot you have. If you have no spent spell slots, a ball of lightning energy expands out from you in a 20 foot radius. Creatures inside the light must make a Constitution saving throw (DC10). On a failed save, the creature takes 1d8 lightning damage. On a successful save, it takes half as much.
- - _4-7_: A magical item you are carrying gains one charge. If this results in the the item having more than its maximum number of charges or the item doesn't have charges, the item becomes hot to the touch for the next minute and you take 1d4 lightning damage if you're touching it. If you have no magical items, follow the instructions for rolls _6-9_.
- - _8-12_: The spell Light (purple colored) is cast on you for the next minute.
+ - _4-5_: A magical item you are carrying gains one charge. If this results in the the item having more than its maximum number of charges or the item doesn't have charges, the item becomes hot to the touch for the next minute and you take 1d4 lightning damage if you're touching it. If you have no magical items, follow the instructions for rolls _2-3_.
+ - _6-12_: The spell Light (purple colored) is cast on you for the next minute.
  - _13-19_: The spell Blur is cast on you for the next minute.
  - _20_: You feel invigorated by magical energy. Roll one of your hit dice and increase your current and max hit points by the result.
+
+## Weapons:
+
+### Zinobolt (spell)
+
+A zinoplasm-powered weapon hurls a mote of zinoplasm-power at a creature or object withing range (120 feet).
+Make a ranged spell attack against the target.
+On a hit, the target takes 1d4 lightening damage and increases their AEU's by 1.
+An object hit by this spell that isn't magical has no reaction.
+A magic object with charges hit by this spell regains one charge.
+A magic object with no charging capability hit by this spell expels 1d4 lightening damage to any person touching it and becomes hot to the touch for 1 minute.
+
+### Platinum Pulsar
+_requires attunement by a spellcaster_
+
+A staff constructed of platinum magically woven around a core of zinoplasm.
+This staff has 6 charges.
+While holding it, you can use an action to expend 1 of its charges to cast the zinobolt spell from it.
+
+The staff gains 1d4 expended charges daily at dawn.
+If you expend the wand's last charge, roll a d20.
+On a 1, increase your AEUs by 5.
