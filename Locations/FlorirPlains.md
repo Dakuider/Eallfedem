@@ -43,3 +43,8 @@ The portion of the city bordering the drawbridge that spans the Lacudin River is
 | Government:  | League of Sheriffs | Defenses:     | Shireguard                           |
 | Commerce:    | Yes                | Atmosphere:   | Bustling port city                   |
 | Religion(s): | Founding Family    | Faction(s):   | ...                                  |
+
+### The Singing Pistachio
+
+The tavern that's closest to the city's market center, and therefore typically the one with the most patrons.
+The tavern's owner is Susanna Shepherd.
