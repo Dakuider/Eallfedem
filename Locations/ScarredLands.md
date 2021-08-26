@@ -13,6 +13,8 @@ To the east of the Scarred Lands is Blackmire, a swamp that stretches for miles 
 
 ## Ruins of Coastal City
 
-## Ruins of Dirkenmos City
+## Ironbrook City
+
+A city named for the babbling mountain brook and the iron mine that it was founded around at the base of the Strael Mountains.
 
 ## Ruins of Central City
