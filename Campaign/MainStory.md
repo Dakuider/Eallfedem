@@ -36,36 +36,3 @@ The Scarred Lands conflicts will start with lesser challenges and progress to mo
 ## The End
 
 Players battle sorcerers and their patron dragon in the irradiated lair of Avnal.
-
-# Player Arcs
-
-## Stewie's Arc
-
-Stewie fled his hometown at the age of 9, running from the perceived threat of the citizens seeking retribution for him committing manslaughter on his childhood friend.
-Stewie's hometown is located about midway along the road between Bloomington and Lakerest.
-The woods he fled into are the southern Lasfaedon Woods.
-
-Todo:
- - Stewie will be a descendant of one of the members who made the pact with the Blue Dragon.
-    - How did Stewie's mother come to interact with these researchers?
-    - Why is Stewie's father not around anymore?
-    - Did Stewie's mother escape from the other researchers with Caleb's dad? If this is the case, then who is Stewie's dad?
-
-## Andrew's Arc
-
-The pack of wolves that raised Andrew made their hunting grounds about 15 miles north of Fort Soleil in the Strael Mountains.
-Andrew's pack being slaughtered was one of the weapon tests.
-
-Todo:
- - are either of Andrew's parents alive? If yes, the party should run into them at some point during their travels in the Scarred Lands
-
-## Caleb's Arc
-
-Caleb's mother is one of the Kumerov researchers.
-The Order of the Tome sensed the earliest of weapon tests happening and sent Caleb's father to investigate.
-The group hid the purpose of their research from him and only gave him enough to satiate his questions about the power that the Order sensed.
-During his time there, Caleb's father ended up falling in love with Caleb's mother and conceiving Caleb.
-
-Around the same time that Caleb was born, Caleb's father figured out why the faction was studying the Zinoplasm.
-Afraid for his new-born's son's life and disgusted with Caleb's mother's lies, he fled the group and brought Caleb back to Tomespire.
-When Caleb was a young boy, his father sent him to the Mirhem Academy.
