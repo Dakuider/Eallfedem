@@ -48,3 +48,46 @@ The portion of the city bordering the drawbridge that spans the Lacudin River is
 
 The tavern that's closest to the city's market center, and therefore typically the one with the most patrons.
 The tavern's owner is Susanna Shepherd.
+
+## Settlements
+
+I used the following rules for rolling settlements: roll a d4, a d6, and a d12.
+The d4 determined the population (100 to 400).
+The d6 determined the type of town, based on the list below:
+
+- 1 = farming
+- 2 = mining
+- 3 = farming
+- 4 = built on ruins
+- 5 = farming
+- 6 = mining
+
+The d12 determined the distance between the new settlement and the last settlement/city.
+
+### Starlight
+
+A settlement of ~200 people built on ruins.
+
+### Eastwood
+
+A farming settlement of ~300 people.
+
+### Goldfield
+
+A mining settlement of ~100 people.
+
+### Mossy Rock
+
+A farming settlement of ~100 people.
+
+### Tranquility
+
+A settlement of ~200 people built on ruins.
+
+### Whisperwind
+
+A farming settlement of ~200 people.
+
+### Bedrock Burrows
+
+A mining settlement of ~300 people.
