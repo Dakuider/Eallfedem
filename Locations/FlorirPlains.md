@@ -55,12 +55,12 @@ I used the following rules for rolling settlements: roll a d4, a d6, and a d12.
 The d4 determined the population (100 to 400).
 The d6 determined the type of town, based on the list below:
 
-- 1 = farming
-- 2 = mining
-- 3 = farming
-- 4 = built on ruins
-- 5 = farming
-- 6 = mining
+- 1: farming
+- 2: mining
+- 3: farming
+- 4: built on ruins
+- 5: farming
+- 6: mining
 
 The d12 determined the distance between the new settlement and the last settlement/city.
 
@@ -91,3 +91,36 @@ A farming settlement of ~200 people.
 ### Bedrock Burrows
 
 A mining settlement of ~300 people.
+
+## Wilderness Dungeons
+
+I used the following rules for rolling dungeons: roll a d12, two d10s, and a d8.
+The d12 determined the distance between the new dungeon and the last.
+One d10 determined how far off of the road the dungeon was (even left, odd right).
+
+The d8 determined the type of dungeon:
+
+- 1-2: abandoned / ruined settlement
+- 3-4: mass grave / mausoleum
+- 5-6: abandoned / ruined fortress
+- 7-8: monster lair
+
+The other d10 determined the inhabitants of the dungeon:
+
+- 1-2: wildlings
+- 3-4: orcs
+- 5-6: group of monsters
+- 7-8: higher CR monster
+- 9-0: empty
+
+### Farwater Ruins
+
+Ruined settlement inhabited by orcs.
+
+### Shaldorn Fort
+
+Abandoned fort.
+
+### Gnoll Lair
+
+A lair inhabited by a pack of gnolls.
