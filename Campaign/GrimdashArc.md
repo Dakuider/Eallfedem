@@ -20,6 +20,8 @@ Grimdash's pack being slaughtered was one of the weapon tests.
 
 ## Session 0.5
 
+### Scene 1 - Tragic Beginnings
+
 Grimdash is on his way back to his pack after trading for supplies at Fort Soleil.
 
 > You make your way through the foothills and gain altitude, and you feel the familiar cold of the mountains start to seep into your clothes.
@@ -29,4 +31,41 @@ Make a DC10 perception or survival check.
 On success: you hear a stampeding herd of elk approaching your location and are able to get out of the way.
 On failure: take 1d4 bludgeoning damage as the herd of elk push their way past you.
 
-Continuing on to your pack's location...
+Continuing on to your pack's location, you notice that the familiar scents of your pack are tinged with blood and char.
+You come upon a horrific scene in the clearing.
+The bodies of your pack mates are strewn about, and it seems they've been murdered.
+
+A DC12 investigation check will reveal these following immediately, otherwise by the time you're done the sun is beginning to set.
+
+Investigating the bodies reveals
+
+- you determine the means of your packmates' deaths to be from purple scorch marks all over their bodies
+- you find a set of armor amongst the bodies (add Armor of Beasts to your inventory)
+- _if you touch the scorch marks_: a spark shoots from the wound and shocks what you touched it with
+
+Investigating the surrounding area reveals
+
+- humanoid footprints at a distance from where your pack's bodies are
+- purple scorch marks on the area across from the footprints
+- DC18 - droplets of zinoplasm near the footprints
+
+You head to Fort Soleil to report this to the guards.
+
+### Scene 2 - Fort Soleil
+
+**Guard NPC**
+
+Name: Theodas Faerora
+Goal: Be a good captain to his subordinates
+Quirk: Fabulously homosexual.
+
+Theodas will initially dismiss Grimdash's claims as outrageous; who cares about a dead wolf pack?
+Theodas will change his mind and suggest taking Grimdash to Tomespire if:
+
+- Grimdash brings up the purple scorch makrs
+- Grimdash brings up finding the zinoplasm droplets
+- DC16 persuasion
+
+### Scene 3 - Tomespire
+
+Grimdash and Malak will arrive at Tomespire at around the same time.
