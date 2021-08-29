@@ -22,7 +22,9 @@ Grimdash's pack being slaughtered was one of the weapon tests.
 
 ### Scene 1 - Tragic Beginnings
 
-Grimdash is on his way back to his pack after trading for supplies at Fort Soleil.
+Our attention pans to a lone figure making his way from trading with the elves at Fort Soleil, and making his way back to his home in the wild.
+
+Andrew can formally describe Grimdash here.
 
 > You make your way through the foothills and gain altitude, and you feel the familiar cold of the mountains start to seep into your clothes.
 > You approach the outskirts of your pack's hunting grounds.
@@ -56,8 +58,11 @@ You head to Fort Soleil to report this to the guards.
 **Guard NPC**
 
 Name: Theodas Faerora
+Gender: Male
+Race: Elf
+Appearance: Very well kempt Woodland Army uniform
 Goal: Be a good captain to his subordinates
-Quirk: Fabulously homosexual.
+Quirk: Fabulously homosexual
 
 Theodas will initially dismiss Grimdash's claims as outrageous; who cares about a dead wolf pack?
 Theodas will change his mind and suggest taking Grimdash to Tomespire if:
@@ -66,6 +71,7 @@ Theodas will change his mind and suggest taking Grimdash to Tomespire if:
 - Grimdash brings up finding the zinoplasm droplets
 - DC16 persuasion
 
-### Scene 3 - Tomespire
+### Scene 3 - Mountain Trail
 
-Grimdash and Malak will arrive at Tomespire at around the same time.
+Grimdash and Malak will arrive at the trail up to Tomespire at around the same time.
+Use Malak's section for this.

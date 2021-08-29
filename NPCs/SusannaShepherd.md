@@ -5,7 +5,7 @@
 
 _Occupation/history?_
 
-> She is the owner / operator of the Singing Pistachio tavern in Lillied Port.
+> She is the owner / operator of The Dancing Pistachio tavern in Lillied Port.
 
 _Appearance?_
 
