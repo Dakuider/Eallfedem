@@ -7,6 +7,10 @@ The woods he fled into are the southern Lasfaedon Woods.
 He's been making his way running cons on the people of the Florir Plains.
 His go-to con is to disguise himself as a League of Sheriffs tax collector and collect money from unsuspecting citizens.
 
+## Alternate Ego
+
+Rivas Keagan - tax collector
+
 ## Todo
 
  - Elyas will be a descendant of one of the members who made the pact with the Blue Dragon.

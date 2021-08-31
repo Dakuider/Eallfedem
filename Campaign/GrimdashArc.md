@@ -55,7 +55,7 @@ You head to Fort Soleil to report this to the guards.
 
 ### Scene 2 - Fort Soleil
 
-**Guard NPC**
+**Woodland Army Captain NPC**
 
 Name: Theodas Faerora
 Gender: Male
@@ -70,6 +70,15 @@ Theodas will change his mind and suggest taking Grimdash to Tomespire if:
 - Grimdash brings up the purple scorch makrs
 - Grimdash brings up finding the zinoplasm droplets
 - DC16 persuasion
+
+**Woodland Army Guard**
+
+Name: Elaith
+Gender: Male
+Race: Elf
+Appearance:
+Goal: Escort Grimdash to Tomespire
+Quirk:
 
 ### Scene 3 - Mountain Trail
 
