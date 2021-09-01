@@ -84,6 +84,10 @@ A farming settlement of ~100 people.
 
 A settlement of ~200 people built on ruins.
 
+#### The Obedient Geese Inn
+
+Bartender: Alex
+
 ### Whisperwind
 
 A farming settlement of ~200 people.
