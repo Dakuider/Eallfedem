@@ -18,3 +18,52 @@ To the east of the Scarred Lands is Blackmire, a swamp that stretches for miles 
 A city named for the babbling mountain brook and the iron mine that it was founded around at the base of the Strael Mountains.
 
 ## Ruins of Central City
+
+## Wilderness Dungeons
+
+I used the following rules for rolling dungeons: roll a d12, two d10s, and a d8.
+The d12 determined the distance between the new dungeon and the last.
+One d10 determined how far off of the road the dungeon was (even left, odd right).
+
+The d8 determined the type of dungeon:
+
+- 1-2: abandoned / ruined settlement
+- 3-4: mass grave / mausoleum
+- 5-6: abandoned / ruined fortress
+- 7-8: monster lair
+
+The other d10 determined the inhabitants of the dungeon:
+
+- 1-3: wildlings
+- 4: orcs
+- 5-6: group of monsters
+- 7-8: higher CR monster
+- 9-0: empty
+
+### Blackhill Fort
+
+A ruined fort inhabited by wildlings.
+
+### Webbed Lair
+
+A monster lair inhabited by giant (wolf) spiders.
+
+### Fool's Hope
+
+A ruined settlement inhabited by orcs.
+
+### Kilkenny
+
+A ruined settlement inhabited by wildlings.
+
+### Dark Cavern
+
+A monster lair inhabited by lizardfolk.
+
+### Forgotten Crypt
+
+A mausoleum inhabited by a poltergeist.
+
+### Millstone
+
+A ruined settlement inhabited by wildlings.
