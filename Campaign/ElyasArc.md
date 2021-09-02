@@ -1,5 +1,12 @@
 ## Backstory
 
+Elyas' parents (Pavel and Sonya) were both researchers with the Kumerov group.
+Elyas was conceived, but then shortly after, his father Pavel died in a zinoplasm accident.
+Sonya, fearing for the safety of her unborn child, fled to the Florir Plains and took up residence in Eastwood.
+Elyas was born and as he started to grow up, Sonya became distant from him because he is the spitting image of his dead father.
+
+Elyas is 32 years old, so members of the Kumerov group who can remember things from before Pavel's death will recognize Elyas.
+
 Elyas fled his hometown at the age of 9, running from the perceived threat of the citizens seeking retribution for him committing manslaughter on his childhood friend.
 Elyas's hometown is located about midway along the road between Bloomington and Lakerest.
 The woods he fled into are the southern Lasfaedon Woods.
