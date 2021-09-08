@@ -1,49 +1,45 @@
 # Adrian Shepherd
 ### Lawful Good
 
-## Role
+## Who are they?
 
-_Occupation/history?_
+### Appearance
 
-> Officer in the Shireguard.
-> Family history of Shireguard service.
+Male human in his 30s.
+Rugged but worn clothes with splint armor on top.
+Long red hair tied back in a ponytail and large red bushy beard.
 
-_Appearance?_
+### Occupation / Daily Life?
 
-> Rugged but worn clothes with splint armor on top.
+He's a well-liked Captain of the Shireguard.
 
-_Abilities?_
+## How are they?
 
-> Above average Strength and Constitution.
-> Below average Intelligence.
+### Interaction
 
-_Talent?_
+He's boisterous and rowdy when he's not on duty, but more collected when he's on the clock.
 
-> Can drink anyone under the table.
+### Weakness
 
-_Mannerism?_
+He's a bit of an alcoholic due to the stress of being a guard.
 
-> Always asks when the next drinking session is.
+### Need
 
-_Interactions with others?_
+To stop being an alcoholic.
 
-> Blunt in his word choice.
+### Desire
 
-_Useful knowledge?_
+To keep Lillied, and most importantly Susanna, safe.
 
-> Knows the history of The War with Bhelvaengr (but was told that Bhelvaengr was defeated, rather than trapped in the Elder Caverns).
+### Enemy / Obstacle
 
-_Ideal?_
+Stress of being a guard.
 
-> Tradition is very important.
+## Why do PCs care?
 
-_Bond?_
+### Useful Knowledge
 
-> He is extremely loyal to Lillied and the League of Sheriffs.
-
-_Flaw or secret?_
-
-> He’s a bit of an alcoholic.
+He will know most of whatever is going on in Lillied.
 
 ## Stat Block
 
