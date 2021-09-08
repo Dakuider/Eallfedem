@@ -1,20 +1,43 @@
 # Susanna Shepherd
 ### Lawful Good
 
-## Role
+## Who are they?
 
-_Occupation/history?_
+### Appearance
 
-> She is the owner / operator of The Dancing Pistachio tavern in Lillied Port.
+Female human in her 30s.
+A well fitting dress covered in a tavern keeper's apron.
+She's absolutely stunning.
 
-_Appearance?_
+### Occupation / Daily Life?
 
-> Absolutely gorgeous.
+She is the owner / operator of The Dancing Pistachio tavern in Lillied Port.
 
-_Interactions with others?_
+## How are they?
 
-> She's flirtations in her interactions with others for fun, and it often gets her patrons in trouble with her husband, Adrian Shepherd.
+### Interaction
 
-_Useful knowledge?_
+Generally flirtatious.
+She thinks it fun to get flirty patrons in trouble with her husband.
 
-> She knows a lot of gossip about the Shireguard and their doings since her husband Adrian is a Captain in the Shireguard.
+### Weakness
+
+What are they bad at?
+
+### Need
+
+Probably get less people beat up by her husband.
+
+### Desire
+
+She wants her husband to be less stressed.
+
+### Enemy / Obstacle
+
+A group of guards in Lillied that seem more roguish and keep getting Captain Adrian in trouble.
+
+## Why do PCs care?
+
+### Job Offer
+
+Will offer the party coin if they can remove the burden of the roguish guards from her husband.
