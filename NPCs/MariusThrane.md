@@ -30,14 +30,14 @@ To be more attentive of his constituents.
 
 ### Desire
 
-To rid the docks of the Ryu Empire's slave trading influence.
+To rid the docks of the corrupt tax collector.
 
 ### Enemy / Obstacle
 
-The Ryu Empire slave traders.
+The corrupt tax collector and her lackeys.
 
 ## Why do PCs care?
 
 ### Job Offer
 
-Will offer Elyas his freedom / removal of his bounty if the party rids the docks of the Ryu Empire slave traders.
+Will offer Elyas his freedom / removal of his bounty if the party brings the corrupt tax collector to justice.
