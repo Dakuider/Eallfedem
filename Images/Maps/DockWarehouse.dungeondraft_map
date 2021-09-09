@@ -132,20 +132,20 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"Crate"
+					"Rug"
 				]
 			},
 			"scatter_tags_memory": {
 				"set": 0,
 				"tags": [
-					"Table"
+					"Clutter"
 				]
 			},
 			"object_library_memory": {
 				"mode": "tags",
 				"scroll": 0,
 				"selected": [
-
+					"res://textures/objects/decor/floor/rug_cow_01.png"
 				],
 				"search_strictness": 0.5
 			},
@@ -153,7 +153,7 @@
 				"mode": "tags",
 				"scroll": 0,
 				"selected": [
-					"res://textures/objects/furniture/tables/small_table_08.png"
+					"res://textures/objects/activities/administration/paper_02.png"
 				],
 				"search_strictness": 0.5
 			}
@@ -163,7 +163,7 @@
 		"format": 3,
 		"width": 15,
 		"height": 15,
-		"next_node_id": "2f",
+		"next_node_id": "87",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -568,16 +568,16 @@
 						"node_id": "2d",
 						"portals": [
 							{
-								"position": "Vector2( 3072, 1280 )",
+								"position": "Vector2( 3072, 1152 )",
 								"rotation": 1.570796,
 								"scale": "Vector2( 1, 1 )",
 								"direction": "Vector2( 0, 1 )",
 								"texture": "res://textures/portals/door_01.png",
 								"radius": 128,
 								"wall_id": "2d",
-								"wall_distance": 0.5,
+								"wall_distance": 0.375,
 								"closed": true,
-								"node_id": "2e"
+								"node_id": "6f"
 							}
 						]
 					}
@@ -613,7 +613,825 @@
 
 				],
 				"objects": [
-
+					{
+						"position": "Vector2( 3180, 1675.07 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/scroll_bowl_02.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "75"
+					},
+					{
+						"position": "Vector2( 3330.4, 1287.87 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/decor/floor/rug_cow_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "74"
+					},
+					{
+						"position": "Vector2( 256, 256 )",
+						"rotation": 1.269733,
+						"scale": "Vector2( 1.02415, 1.02415 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "2f"
+					},
+					{
+						"position": "Vector2( 896, 640 )",
+						"rotation": -0.788092,
+						"scale": "Vector2( 0.927068, 0.927068 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "30"
+					},
+					{
+						"position": "Vector2( 256, 1280 )",
+						"rotation": 1.039148,
+						"scale": "Vector2( 0.827349, 0.827349 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "31"
+					},
+					{
+						"position": "Vector2( 896, 1792 )",
+						"rotation": 2.609807,
+						"scale": "Vector2( 1.06843, 1.06843 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "32"
+					},
+					{
+						"position": "Vector2( 3328, 2176 )",
+						"rotation": -0.574333,
+						"scale": "Vector2( 0.764025, 0.764025 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "33"
+					},
+					{
+						"position": "Vector2( 3712, 2944 )",
+						"rotation": 3.095257,
+						"scale": "Vector2( 0.841413, 0.841413 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "34"
+					},
+					{
+						"position": "Vector2( 3328, 3584 )",
+						"rotation": 0.332461,
+						"scale": "Vector2( 1.20261, 1.20261 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "35"
+					},
+					{
+						"position": "Vector2( 384, 2304 )",
+						"rotation": 0.556262,
+						"scale": "Vector2( 0.852732, 0.852732 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "36"
+					},
+					{
+						"position": "Vector2( 1280, 3712 )",
+						"rotation": -1.730251,
+						"scale": "Vector2( 0.771899, 0.771899 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "37"
+					},
+					{
+						"position": "Vector2( 1087.2, 3719.87 )",
+						"rotation": 2.879532,
+						"scale": "Vector2( 0.896597, 0.896597 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "38"
+					},
+					{
+						"position": "Vector2( 3328, 2560 )",
+						"rotation": -2.386138,
+						"scale": "Vector2( 1.22913, 1.22913 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "39"
+					},
+					{
+						"position": "Vector2( 896, 2944 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/tables/small_table_05.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "3a"
+					},
+					{
+						"position": "Vector2( 640, 2432 )",
+						"rotation": -0.742512,
+						"scale": "Vector2( 0.88499, 0.88499 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "3b"
+					},
+					{
+						"position": "Vector2( 1152, 3456 )",
+						"rotation": -2.121874,
+						"scale": "Vector2( 0.877296, 0.877296 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "3c"
+					},
+					{
+						"position": "Vector2( 959.198, 3444.67 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.799924, 0.799924 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "3d"
+					},
+					{
+						"position": "Vector2( 760.798, 3444.67 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.868763, 0.868763 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "3e"
+					},
+					{
+						"position": "Vector2( 872.798, 2452.67 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.906, 0.906 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "3f"
+					},
+					{
+						"position": "Vector2( 1077.6, 2459.07 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.806776, 0.806776 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "40"
+					},
+					{
+						"position": "Vector2( 1426.4, 2203.07 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.970514, 0.970514 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "46"
+					},
+					{
+						"position": "Vector2( 1426.4, 1982.27 )",
+						"rotation": 0.028712,
+						"scale": "Vector2( 0.942498, 0.942498 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "47"
+					},
+					{
+						"position": "Vector2( 1439.2, 1783.87 )",
+						"rotation": 0.017211,
+						"scale": "Vector2( 0.716888, 0.716888 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "48"
+					},
+					{
+						"position": "Vector2( 1429.6, 1601.47 )",
+						"rotation": -0.075286,
+						"scale": "Vector2( 0.814891, 0.814891 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "49"
+					},
+					{
+						"position": "Vector2( 1471.2, 1441.47 )",
+						"rotation": -0.063171,
+						"scale": "Vector2( 0.942994, 0.942994 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_03.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "4a"
+					},
+					{
+						"position": "Vector2( 1368.8, 1463.87 )",
+						"rotation": -0.08535,
+						"scale": "Vector2( 0.671281, 0.671281 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_03.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "4b"
+					},
+					{
+						"position": "Vector2( 1426.4, 1255.87 )",
+						"rotation": 0.066333,
+						"scale": "Vector2( 1.08585, 1.08585 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "4c"
+					},
+					{
+						"position": "Vector2( 1439.2, 1028.67 )",
+						"rotation": -0.070593,
+						"scale": "Vector2( 0.897741, 0.897741 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "4d"
+					},
+					{
+						"position": "Vector2( 1672.8, 635.067 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/tables/round_table_01.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "4e"
+					},
+					{
+						"position": "Vector2( 1468, 452.667 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/chair_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "4f"
+					},
+					{
+						"position": "Vector2( 1448.8, 747.067 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/chair_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "50"
+					},
+					{
+						"position": "Vector2( 1797.6, 407.867 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/chair_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "51"
+					},
+					{
+						"position": "Vector2( 1935.2, 657.467 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/chair_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "52"
+					},
+					{
+						"position": "Vector2( 1730.4, 897.467 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/chair_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "53"
+					},
+					{
+						"position": "Vector2( 1896.8, 1284.67 )",
+						"rotation": 0.065301,
+						"scale": "Vector2( 0.838446, 0.838446 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "55"
+					},
+					{
+						"position": "Vector2( 1903.2, 1502.27 )",
+						"rotation": -0.07492,
+						"scale": "Vector2( 0.803735, 0.803735 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "56"
+					},
+					{
+						"position": "Vector2( 1893.6, 1710.27 )",
+						"rotation": 0.020786,
+						"scale": "Vector2( 0.795588, 0.795588 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "57"
+					},
+					{
+						"position": "Vector2( 1880.8, 1889.47 )",
+						"rotation": -0.050212,
+						"scale": "Vector2( 0.759215, 0.759215 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "58"
+					},
+					{
+						"position": "Vector2( 2220, 1115.07 )",
+						"rotation": -0.031211,
+						"scale": "Vector2( 0.771932, 0.771932 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "59"
+					},
+					{
+						"position": "Vector2( 2200.8, 1588.67 )",
+						"rotation": -0.035323,
+						"scale": "Vector2( 0.971178, 0.971178 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "5a"
+					},
+					{
+						"position": "Vector2( 2194.4, 2283.07 )",
+						"rotation": -0.042306,
+						"scale": "Vector2( 1.0153, 1.0153 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "5b"
+					},
+					{
+						"position": "Vector2( 2021.6, 2843.07 )",
+						"rotation": -0.060338,
+						"scale": "Vector2( 0.92444, 0.92444 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "5c"
+					},
+					{
+						"position": "Vector2( 1906.4, 2094.27 )",
+						"rotation": 0.035443,
+						"scale": "Vector2( 0.964674, 0.964674 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "5d"
+					},
+					{
+						"position": "Vector2( 2204, 2507.07 )",
+						"rotation": -0.015974,
+						"scale": "Vector2( 0.960017, 0.960017 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "5e"
+					},
+					{
+						"position": "Vector2( 2200.8, 1387.07 )",
+						"rotation": 0.050713,
+						"scale": "Vector2( 0.90918, 0.90918 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "5f"
+					},
+					{
+						"position": "Vector2( 1938.4, 2603.07 )",
+						"rotation": -0.048488,
+						"scale": "Vector2( 1.14256, 1.14256 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "60"
+					},
+					{
+						"position": "Vector2( 2204, 2052.67 )",
+						"rotation": -0.005953,
+						"scale": "Vector2( 0.86248, 0.86248 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "61"
+					},
+					{
+						"position": "Vector2( 2034.4, 1092.67 )",
+						"rotation": -0.022038,
+						"scale": "Vector2( 0.845942, 0.845942 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "62"
+					},
+					{
+						"position": "Vector2( 2200.8, 1783.87 )",
+						"rotation": -0.046097,
+						"scale": "Vector2( 0.983878, 0.983878 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "63"
+					},
+					{
+						"position": "Vector2( 1922.4, 2327.87 )",
+						"rotation": -0.009767,
+						"scale": "Vector2( 1.03718, 1.03718 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "64"
+					},
+					{
+						"position": "Vector2( 2210.4, 2715.07 )",
+						"rotation": -0.071673,
+						"scale": "Vector2( 0.904221, 0.904221 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "65"
+					},
+					{
+						"position": "Vector2( 2690.4, 619.067 )",
+						"rotation": 0.039685,
+						"scale": "Vector2( 1.04921, 1.04921 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "66"
+					},
+					{
+						"position": "Vector2( 2687.2, 1409.47 )",
+						"rotation": 0.008282,
+						"scale": "Vector2( 1.00993, 1.00993 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "67"
+					},
+					{
+						"position": "Vector2( 2661.6, 2459.07 )",
+						"rotation": -0.074713,
+						"scale": "Vector2( 0.833835, 0.833835 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "68"
+					},
+					{
+						"position": "Vector2( 2728.8, 2257.47 )",
+						"rotation": -0.029775,
+						"scale": "Vector2( 0.755311, 0.755311 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "69"
+					},
+					{
+						"position": "Vector2( 2658.4, 846.267 )",
+						"rotation": -0.046522,
+						"scale": "Vector2( 0.860872, 0.860872 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "6a"
+					},
+					{
+						"position": "Vector2( 2648.8, 1815.87 )",
+						"rotation": 0.043915,
+						"scale": "Vector2( 0.699496, 0.699496 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/crate_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "6b"
+					},
+					{
+						"position": "Vector2( 2684, 2036.67 )",
+						"rotation": 0.009755,
+						"scale": "Vector2( 1.06586, 1.06586 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/crates/fruit_box_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "6c"
+					},
+					{
+						"position": "Vector2( 2684, 1623.87 )",
+						"rotation": 0.044386,
+						"scale": "Vector2( 1.09194, 1.09194 )",
+						"mirror": false,
+						"texture": "res://textures/objects/supplies/barrels/barrel_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "6d"
+					},
+					{
+						"position": "Vector2( 2789.6, 3118.27 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/vehicles/cart_02.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "6e"
+					},
+					{
+						"position": "Vector2( 1664, 640 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://textures/objects/clutter/games/cards_11.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "70"
+					},
+					{
+						"position": "Vector2( 3381.6, 1633.47 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/desks/open_desk_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "71"
+					},
+					{
+						"position": "Vector2( 3448.8, 1435.07 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://textures/objects/furniture/chairs/throne_02.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "72"
+					},
+					{
+						"position": "Vector2( 3330.4, 929.467 )",
+						"rotation": 0,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": true,
+						"texture": "res://textures/objects/furniture/storage/wardrobe_03.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "73"
+					},
+					{
+						"position": "Vector2( 3448.8, 1665.47 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_04.png",
+						"layer": 100,
+						"shadow": true,
+						"custom_color": "ff6b3834",
+						"node_id": "76"
+					},
+					{
+						"position": "Vector2( 3423.2, 1671.87 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_05.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "77"
+					},
+					{
+						"position": "Vector2( 3292, 1697.47 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/candle_holder_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "78"
+					},
+					{
+						"position": "Vector2( 3458.4, 1665.47 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/scroll_04.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "79"
+					},
+					{
+						"position": "Vector2( 1432.8, 2510.27 )",
+						"rotation": -1.399448,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7a"
+					},
+					{
+						"position": "Vector2( 1692, 3236.67 )",
+						"rotation": 2.527346,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7b"
+					},
+					{
+						"position": "Vector2( 1192.8, 3175.87 )",
+						"rotation": 1.738824,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7c"
+					},
+					{
+						"position": "Vector2( 1298.4, 2731.07 )",
+						"rotation": 1.19742,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7d"
+					},
+					{
+						"position": "Vector2( 642.398, 2628.67 )",
+						"rotation": 0.527655,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7e"
+					},
+					{
+						"position": "Vector2( 1714.4, 1108.67 )",
+						"rotation": -2.637389,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "7f"
+					},
+					{
+						"position": "Vector2( 2575.2, 2878.27 )",
+						"rotation": 2.847521,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "80"
+					},
+					{
+						"position": "Vector2( 2389.6, 1787.07 )",
+						"rotation": 3.09681,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_01.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "81"
+					},
+					{
+						"position": "Vector2( 2479.2, 587.067 )",
+						"rotation": -2.696548,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "82"
+					},
+					{
+						"position": "Vector2( 2312.8, 3335.87 )",
+						"rotation": 0.348842,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "83"
+					},
+					{
+						"position": "Vector2( 2530.4, 1310.27 )",
+						"rotation": 2.80787,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "84"
+					},
+					{
+						"position": "Vector2( 1679.2, 1719.87 )",
+						"rotation": 2.030274,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "85"
+					},
+					{
+						"position": "Vector2( -292.002, 407.867 )",
+						"rotation": 0.374153,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/activities/administration/paper_02.png",
+						"layer": 100,
+						"shadow": true,
+						"node_id": "86"
+					}
 				],
 				"lights": [
 
