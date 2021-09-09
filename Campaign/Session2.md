@@ -38,6 +38,30 @@
     - Rivas has 48 hours or his bounty will be doubled
 
 
+## Warehouse Snooping
+
+- warehouse security/population:
+  - from hour after first light to dinner time:
+    - 2d4 rogue guards and Reginar Longriver
+    - front door and dock bay unlocked, rear door locked
+  - from dinner time to just before bed time:
+    - 1 rogue guard and Reginar Longriver
+    - rear door and dock bay unlocked, front door 50% chance locked
+  - from bed time until hour after first light:
+    - 1 rogue guard (30% chance effected by unconscious condition (PHB 292))
+    - all doors are locked
+- warehouse investigation:
+  - in lobby area
+    - DC15: 2d4 x 10 CP
+    - DC20: Invoice that shows inflated tax price
+  - in storage area
+    - DC5: plenty of provisions and materials
+    - DC20: 3d6 x 10 SP
+  - in office
+    - DC12: 1d6 x 100 SP, 5d6 x 10 GP
+    - DC15: Reginar's leger that he uses to distribute his embezzlement to lackeys
+
+
 ## Conversation with Devden
 
 - Devden explains to party:
@@ -53,3 +77,24 @@
   - not knowing how to handle this information, Devden stole Malak away to Tomespire
   - Devden entrusted Malak to the academy so he could focus on studying zinoplasm
   - Devden reveals to party orcs took three amulets he made that were enchanted to vibrate in the presence of zinoplasm
+
+
+## Return to Farwater Ruins or Shaldorn Fort
+
+- swinging spike trap
+  - tripwire trigger
+  - DC10 to notice
+  - DC13 to disable
+  - DC15 to avoid
+  - 2d6 damage
+- DC5 investigation reveals Zog's note telling party to come to the gnoll lair if they want to retrieve Devden's belongings
+  - "if yoo want yoor stuf, walk norf to cave - ZOG"
+
+
+## Gnoll Lair
+
+**TODO**
+- make lair map
+- make gnoll tokens
+- populate with gnolls
+- determine treasure (besides Devden's belongings)

@@ -5,7 +5,7 @@
 
 ### Appearance
 
-Male elf in his mid 100s.
+Male elf in his second century.
 Devden is wearing traveler's robes that bear the insignia of the Order of the Tome.
 Generally looks exhausted.
 
