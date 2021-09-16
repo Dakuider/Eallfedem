@@ -10,7 +10,7 @@
     - greets the party heartily and asks if they like Lillied's new wall art
       - gestures at the wanted posters of Rivas
 
-- 2d4 guards tail party into town
+- 2d4 rogue guards tail party into town
   - roll their stealth to contest party's passive perception or perception check if they look
   - Devden will roll perception regardless because of his nervous disposition
   - guards will try to confront party to arrest Rivas
@@ -52,13 +52,13 @@
     - all doors are locked
 - warehouse investigation:
   - in lobby area
-    - DC15: 2d4 x 10 CP
+    - DC15: 2d4 x 10 (50) CP
     - DC20: Invoice that shows inflated tax price
   - in storage area
     - DC5: plenty of provisions and materials
-    - DC20: 3d6 x 10 SP
+    - DC20: 3d6 x 10 (105) SP
   - in office
-    - DC12: 1d6 x 100 SP, 5d6 x 10 GP
+    - DC12: 1d6 x 100 (350) SP, 5d6 x 10 (175) GP
     - DC15: Reginar's leger that he uses to distribute his embezzlement to lackeys
 
 
@@ -84,7 +84,7 @@
 - swinging spike trap
   - tripwire trigger
   - DC10 to notice
-  - DC13 to disable
+  - DC13 to disable (thieves tools/disadvantage with blade)
   - DC15 to avoid
   - 2d6 damage
 - DC5 investigation reveals Zog's note telling party to come to the gnoll lair if they want to retrieve Devden's belongings
@@ -93,8 +93,20 @@
 
 ## Gnoll Lair
 
-**TODO**
-- make lair map
-- make gnoll tokens
-- populate with gnolls
-- determine treasure (besides Devden's belongings)
+- rigged bell trap
+  - tripwire trigger
+  - DC12 to notice
+  - DC13 to disable (thieves tools/disadvantage with blade)
+  - DC15 to avoid
+  - alerts population of lair to the party's presence
+- population
+  - 3 gnolls
+  - 2d4 hyenas
+  - Zog
+- a Bloody Pauldron of Leadership can be found on Zog's corpse, once defeated
+- treasure in Zog's room:
+  - chests containing
+    - 3d6 x 100 (1050) CP
+    - 2d6 x 100 (700) SP
+    - 2d4 (5) 25 GP art objects
+    - 2 Zino Medallions
