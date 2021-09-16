@@ -44,6 +44,15 @@
 
 </td></tr></table>
 
+# Travel
+
+Distance Traveled per...
+| Pace | Minute | Hour | Day | Effect |
+| ---- | ------ | ---- | --- | ------ |
+| Fast | 400 ft | 4 miles | 30 Miles | -5 penalty to passive Wisdom (Perception) scores |
+| Normal | 300 ft | 3 miles | 24 miles | - |
+| Slow | 200 ft | 2 miles | 18 miles | Able to use Stealth |
+
 # Costs
 
 <table>
