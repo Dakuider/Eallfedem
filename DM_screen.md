@@ -35,12 +35,15 @@
 
 ## Typical Difficulty Classes
 
- - Very Easy = DC5
- - Easy = DC10
- - Medium = DC15
- - Hard = DC20
- - Very Hard = DC25
- - Nearly Impossible = DC30
+| Difficulty | DC | % Success w/ no prof | % Success w/ +2 prof |
+| --- | --- | --- | --- |
+| Very Easy | 5 | 75% | 85% |
+| Easy | 10 | 50% | 60% |
+| Go-to | 12 | 40% | 50% |
+| Medium | 15 | 25% | 35% |
+| Hard | 20 | 5% | 15% |
+| Very Hard | 25 | 0% | 0% |
+| Nearly Impossible | 30 | 0% | 0% |
 
 </td></tr></table>
 
@@ -346,3 +349,28 @@ Distance Traveled per...
 | 18th | 2,100 | 4,200 | 6,300 | 9,500 |
 | 19th | 2,400 | 4,900 | 7,300 | 10,900 |
 | 20th | 2,800 | 5,700 | 8,500 | 12,700 |
+
+## Character Advancement
+
+| Experience Points | Level | Proficiency Bonus |
+| --- | --- | --- |
+| 0 | 1 | +2 |
+| 300 | 2 | +2 |
+| 900 | 3 | +2 |
+| 2700 | 4 | +2 |
+| 6500 | 5 | +3 |
+| 14000 | 6 | +3 |
+| 23000 | 7 | +3 |
+| 34000 | 8 | +3 |
+| 48000 | 9 | +3 |
+| 64000 | 10 | +3 |
+| 85000 | 11 | +3 |
+| 100000 | 12 | +3 |
+| 120000 | 13 | +3 |
+| 140000 | 14 | +3 |
+| 165000 | 15 | +3 |
+| 195000 | 16 | +3 |
+| 225000 | 17 | +3 |
+| 265000 | 18 | +3 |
+| 305000 | 19 | +3 |
+| 355000 | 20 | +3 |
