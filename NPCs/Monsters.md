@@ -1,30 +1,50 @@
 # Monsters
 
-- Scavengers
-  - Giant Rat (CR 1/8)(MM 327)
+- Gnolls
   - Hyenas (CR 0)(MM 331)
+  - Gnoll (CR 1/2)(MM 163)
+  - Gnoll Pack Lord (CR 2)(MM 163)
+- Hags
+  - Sea Hag (CR 2 / Coven CR4)(MM 179)
+  - Green Hag (CR 3 / Coven CR5)(MM 177)
+  - Night Hag (CR 5 / Coven CR7)(MM 178)
+- Kumerov Faction
+  - Cultist (CR 1/8)(MM 345)
+  - Cult Fanatic (CR 2)(MM 345)
+- Orcs
+  - Orc (CR 1/2)(MM 246)
+  - Orog (CR 2)(MM 247)
+  - Orc War Chief (CR 4)(MM 246)
+- Lesser Giants
+  - Ogre (CR 2)(MM 237)
+  - Ettin (CR 4)(MM 132)
+  - Troll (CR 5)(291)
+- Lizardfolk
+  - Lizardfolk (CR 1/2)(MM 204)
+  - Lizardfolk Shaman (CR 2)(MM 205)
+  - Lizardfolk King/Queen (CR 4)(MM 205)
+- Scavengers
+  - Vulture (CR 0)(MM 339)
+  - Giant Weasel (CR 1/8)(MM 329)
+  - Giant Rat (CR 1/8)(MM 327)
+- Spiders
+  - Giant Wolf Spider (CR 1/4)(MM 330)
+  - Giant Spider (CR 1)(MM 328)
+  - Phase Spider (CR 3)(MM 334)
+  - Drider (CR 6)(MM 120)
+- Undead
+  - Skeletons (CR 1/4)(MM 272)
+  - Shadow (CR 1/2)(MM 269)
+  - Specter (CR 1)(MM 279)
+  - Poltergeist (CR 2)(MM 279)
+  - Wight (CR 3)(MM 300)
+  - Wraith (CR 5)(MM 302)
+- Wildlings
+  - Tribal Warrior (CR 1/8)(MM 350)
+  - Berserker (CR 2)(MM 344)
 - Wolves
   - Wolf (CR 1/4)(MM 341)
   - Worg (CR 1/2)(MM 341)
   - Dire Wolf (CR 1)(MM 321)
   - Winter Wolf (CR 3)(MM 340)
-- Spiders
-  - Giant Wolf Spider (CR 1/4)(MM 330)
-  - Giant Spider (CR 1)(MM 328)
-  - Phase Spider (CR 3)(MM 334)
-- Gnolls
-  - Gnoll (CR 1/2)(MM 163)
-  - Gnool Pack Lord (CR 2)(MM 163)
-- Undead
-  - Zombie (CR 1/4)(MM 316)
-  - Specter (CR 1)(MM 279)
-  - Poltergeist (CR 2)(MM 279)
-- Orcs
-  - Orc (CR 1/2)(MM 246)
-  - Orog (CR 2)(MM 247)
-  - Orc War Chief (CR 4)(MM 246)
-- Wildlings
-  - Tribal Warrior (CR 1/8)(MM 350)
-  - Berserker (CR 2)(MM 344)
-- Kumerov Faction
-
+- Wyvern (CR 6)(MM 303)

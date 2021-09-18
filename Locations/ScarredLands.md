@@ -11,13 +11,19 @@ The eastern border of the Scarred Lands is a damp and dreary forest.
 
 To the east of the Scarred Lands is Blackmire, a swamp that stretches for miles to the eastern coast of Arcmont.
 
-## Ruins of Coastal City
+## Ducelden Ruins
+
+**TODO**
 
 ## Ironbrook City
 
 A city named for the babbling mountain brook and the iron mine that it was founded around at the base of the Strael Mountains.
 
-## Ruins of Central City
+## Straflan Ruins
+
+**TODO**:
+- is a wildling settlement
+- Orcs from Urkrugh have allied with the Lesser Giants from Crumbled Cave to lay seige to the city
 
 ## Wilderness Dungeons
 
@@ -40,30 +46,53 @@ The other d10 determined the inhabitants of the dungeon:
 - 7-8: higher CR monster
 - 9-0: empty
 
+### Urkrugh
+
+An stronghold of Orcs at the source of the river that divides the Scarred Lands.
+
+**TODO:**
+- I think this is where Grimdash' dad is located
+
+### Midmire
+
+A ruined settlement inhabited by Wildlings. 
+
+### Crumbled Cave
+
+A monster lair inhabited by Lesser Giants.
+
 ### Blackhill Fort
 
-A ruined fort inhabited by wildlings.
+A ruined fort inhabited by Wildlings.
 
 ### Webbed Lair
 
-A monster lair inhabited by giant (wolf) spiders.
+A monster lair inhabited by giant Spiders.
 
 ### Fool's Hope
 
-A ruined settlement inhabited by orcs.
+A ruined settlement inhabited by Orcs.
+
+### Oldcrest
+
+A ruined settlement inhabited by a Wyvern.
 
 ### Kilkenny
 
-A ruined settlement inhabited by wildlings.
+A ruined settlement inhabited by Wildlings.
 
 ### Dark Cavern
 
-A monster lair inhabited by lizardfolk.
+A monster lair inhabited by Hag(s).
 
 ### Forgotten Crypt
 
-A mausoleum inhabited by a poltergeist.
+A mausoleum inhabited by a powerful Undead.
 
 ### Millstone
 
-A ruined settlement inhabited by wildlings.
+A ruined settlement inhabited by Wildlings.
+
+### Dripping Grotto
+
+A moist cave inhabited by Lizardfolk.
