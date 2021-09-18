@@ -10,7 +10,7 @@
     - greets the party heartily and asks if they like Lillied's new wall art
       - gestures at the wanted posters of Rivas
 
-- 2d4 rogue guards tail party into town
+- 5 rogue guards tail party into town
   - roll their stealth to contest party's passive perception or perception check if they look
   - Devden will roll perception regardless because of his nervous disposition
   - guards will try to confront party to arrest Rivas
@@ -42,7 +42,7 @@
 
 - warehouse security/population:
   - from hour after first light to dinner time:
-    - 2d4 rogue guards and Reginar Longriver
+    - 5 rogue guards and Reginar Longriver
     - front door and dock bay unlocked, rear door locked
   - from dinner time to just before bed time:
     - 1 rogue guard and Reginar Longriver

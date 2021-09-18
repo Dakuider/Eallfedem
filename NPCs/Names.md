@@ -14,7 +14,7 @@ Maylin Xyrwynn
 
 # Human Names
 
-Finian Omnes
+Finian Omnes - guard at the gate 
 Stefan Audigou
 Erwan Jaffre
 

@@ -6,7 +6,7 @@
 ### Appearance
 
 Male human in his fourties.
-Navy blue overcoat worn over (faded) white dress shirt and pants.
+Studded leather duster bearing the insignia of the League of Sheriffs over a white(ish) dress shirt and brown trousers.
 His medium length grey hair is pulled back in a ponytail.
 
 ### Occupation / Daily Life?
