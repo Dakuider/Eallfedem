@@ -38,8 +38,9 @@
 | Difficulty | DC | % Success w/ no prof | % Success w/ +2 prof |
 | --- | --- | --- | --- |
 | Very Easy | 5 | 75% | 85% |
+| "Routine" | 5 + d4 | 55-70% | 65-80% |
 | Easy | 10 | 50% | 60% |
-| Go-to | 12 | 40% | 50% |
+| "Some Effort" | 10 + d4 | 30-45% | 40-55% |
 | Medium | 15 | 25% | 35% |
 | Hard | 20 | 5% | 15% |
 | Very Hard | 25 | 0% | 0% |
