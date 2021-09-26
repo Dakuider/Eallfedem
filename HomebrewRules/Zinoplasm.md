@@ -65,22 +65,40 @@ When your number of exposure units increases by 1, roll a d20 and follow the ins
 
 ## Weapons:
 
-### Zinobolt (spell)
+### Zinobolt
+_1st level Evocation_
 
-A zinoplasm-powered weapon hurls a mote of zinoplasm-power at a creature or object withing range (120 feet).
+**Casting Time**: 1 action
+**Range**: 90 feet
+**Components**: Requires a zinoplasm weapon
+**Duration**: Instantaneous
+
+A zinoplasm-powered weapon hurls a mote of zinoplasm-power at a creature or object within range.
 Make a ranged spell attack against the target.
-On a hit, the target takes 1d4 lightening damage and increases their AEU's by 1.
+If the attack hits, the target
+
+- takes 2d8 lightning damage
+- increases their AEU's by 1.
+
+**At Higher Levels.**
+When this spell is cast using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
 An object hit by this spell that isn't magical has no reaction.
-A magic object with charges hit by this spell regains one charge.
-A magic object with no charging capability hit by this spell expels 1d4 lightening damage to any person touching it and becomes hot to the touch for 1 minute.
+A magic object hit by this spell follows the rules for rolling _4-5_ on the table above.
 
 ### Platinum Pulsar
-_requires attunement by a spellcaster_
+_Staff, rarity unknown, (requires attunement by a spellcaster)_
 
 A staff constructed of platinum magically woven around a core of zinoplasm.
-This staff has 6 charges.
-While holding it, you can use an action to expend 1 of its charges to cast the zinobolt spell from it.
 
-The staff gains 1d4 expended charges daily at dawn.
+The rate at which you lose AEUs is halved while you hold this weapon.
+
+This staff has 10 charges.
+While holding it, you can use an action to expend 1 or more of its charges to cast the _zinobolt_ spell from it (1 charge per spell slot level used).
+
+The staff gains 1d8 + 2 expended charges daily at dawn.
 If you expend the wand's last charge, roll a d20.
-On a 1, increase your AEUs by 5.
+On a 1, the staff explodes in a ball of lightning energy that expands out from you in a 20 foot radius.
+Creatures inside the lightning must make a Constitution saving throw (DC10).
+On a failed save, the creature takes 2d8 lightning damage.
+On a successful save, it takes half as much.
