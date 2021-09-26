@@ -8,7 +8,8 @@ While attuned to this item, your Charisma score increases by 1, to a maximum of 
 
 ### Command Blood Thirst
 
-While attuned to this item, you can point at a willing creature and command them to make a "Reckless Attack" as a reaction to your command.
+While attuned to this item, you can point at a willing creature and command them to make an attack as a reaction to your command.
+Doing so means that attack rolls against them have advantage until their next turn.
 You can use this feature 3 times a day.
 
 ### Hungry
