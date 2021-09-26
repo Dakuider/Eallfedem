@@ -1,4 +1,9 @@
 
+## Ret-con
+
+- rogue bandits are not under Cpt Shepherd's command, instead under Cpt Longriver's command
+
+
 ## Gnoll Lair
 
 - rigged bell trap
@@ -8,7 +13,8 @@
   - DC15 to avoid
   - alerts population of lair to the party's presence
 - population
-  - 3 gnolls
+  - 2 gnolls
+  - 2 gnoll witherlings
   - ~~2d4 hyenas~~
   - Zog
 - a Bloody Pauldron of Leadership can be found on Zog's corpse, once defeated
@@ -22,20 +28,56 @@
 
 ## Fort Soleil
 
-- guards there will give them food and shelter
 - familiar NPCs:
   - Guard Elaith
     - upset by Malak's remarks about him not being a good guard
     - seems more confident (he has Bandit Captain stat block now)
   - Captain Theodas Faerora
 
+- guards there will give them food and shelter
+- while the party is at Fort Soleil
+  - alarm raised because of a patrol returning
+  - turns out it's just one member of a patrol: Elaith
+  - Elaith describes his patrol was ambushed by spiders, and the lead spider seemed to move faster than he and his comrades could perceive
+  - Captain Theodas will offer party 50GP per recovered body and 250GP upon receiving proof that the spiders have been taken care of
+    - Elaith and a cart will accompany them on this venture
+
+
+## Ambushed Patrol
+
+- 3 miles north-north east of Webbed Lair
+- as party approaches location, Elaith warns to keep eyes peeled for spiders and for wildlings, since they're near Blackhill Fort
+  - Blackhill fort was abandoned up until recently
+  - patrol was doing recon, found wildlings and were heading back to make their report when they were attacked
+- 4 Woodland guard corpses remain
+  - Elaith explains there should be two more guards' bodies
+  - DC11 (or half an hour) investigation will reveal evidence of tracks leading south-south west
+- skill encounter approaching Webbed Lair
+  - Member of party makes Survival check to track spiders/remaining bodies
+  - Based on Survival check, each mile will take
+    - 1 - 7: an hour
+    - 8 - 15: 40 minutes
+    - 16+: 20 minutes 
+- party will be ambushed by 2d6 Giant Wolf Spiders as they approach the Webbed Lair
+
 
 ## Webbed Lair
 
-- as party approaches the webbed lair, they find
-  - fallen troops of Fort Soleil
-  - active spider hunting party
-  - spider hunting party killed by zinoplasm weapons
+- webs in lair follow rules from Web spell
+  - DC16 for STR and DEX saves
+  - AC10 (miss disarms player, spend movement to retrieve weapon)
+  - 10HP (weak to fire)
+- population
+  - 1 giant spider in first chamber
+  - 2 giant spiders in second chamber
+  - 1 phase spider in final chamber
+- treasure
+  - 3d6 X 100 CP
+  - 3d6 x 50 SP
+  - 2d6 x 10 GP
+  - 2d6 10GP Gems
+  - 2 potions of healing
+  - Web Spell Scroll
 
 
 # Return to Lillied
