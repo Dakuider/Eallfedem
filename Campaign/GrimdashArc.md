@@ -2,85 +2,38 @@
 
 Grimdash's parents' relationship was star-crossed because the orcish and human tribes were almost always in conflict.
 Mixing of the races was to spit in the face of ancestors that had fought for the safety of their tribes for generations.
-Gashna (orcish father) and Tella (human mother) decided to run away together to avoid the scorn of their respective tribes.
-While on the run, they had a half-orc child: Grimdash.
 
-Their fugitive lifestyle worked well for them, and they learned to live as one with nature.
-When Grimdash was about 3 years old, a human wildling tribe found them.
-The tribe murdered Gashna on the spot, took Tella into custody, and left Grimdash at his parents camp to die.
+Gashna's (Grimdash's orcish father) tribe was raiding a wildling camp when he decided to spare Tella's (Grimdash's human mother) life.
+It was nearing the end of the orcs' victorious raid, and they were pillaging the remains of the wildling camp when Gashna discovered Tella hiding.
+Tella was a powerful druid, and prepared to defend herself by transforming into a brown bear.
+They fought a hard battle.
+With each strike that Tella landed, Gashna fell more in love with this strong beast of a woman.
+As Tella was about to strike the final blow, Gashna's tribe-mates rushed to his aid and Tella fled.
+In his defeat, Gashna was left for dead by his tribe-mates, who scorned all that they found to be weak.
 
-A pack of wolves witnessed these tragic events and decided to take Grimdash into their pack to continue to raise him with druidic principles in mind.
+Tella later returned to see if there was anything worth scavenging from the remains of her tribe's camp.
+Instead, she found Gashna, still clinging to life on the battlefield where she had felled him.
+She brought him back from the brink of death, to grill him for information on his tribe.
+He willingly told her all he knew, and explained that his life was hers: not only had she bested him in battle, she had won his heart as well.
 
-The pack of wolves that raised Grimdash made their hunting grounds about 15 miles north of Fort Soleil in the Strael Mountains.
-Grimdash's pack being slaughtered was one of the weapon tests.
+[...]
 
-## Todo
+Gashna and Tella eventually ended up having a half-orc child: Grimdash.
 
- - are either of Grimdash's parents alive? If yes, the party should run into them at some point during their travels in the Scarred Lands
+When Grimdash was about 3 years old, a wildling tribe found them.
+Tella flew with Grimdash, dropped him off with a wolf pack she was allied with, and rushed back to help Gashna.
+That was the last that Grimdash or his pack ever saw of Tella.
+After a time, members of the pack investigated the scene where Grimdash's parents were ambushed.
+They found Gashna dead, surrounded by enemies, but could not find Tella.
 
-## Session 0.5
+The wolf pack took Grimdash in as one of their own and raised him with to be a druid like his mother.
+The pack had planned to tell Grimdash that his mother could still be alive when they thought he was old enough to go out in the world on his own, but didn't get the chance before they were murdered as part of a zinoplasm weapons test.
 
-### Scene 1 - Tragic Beginnings
+Tella *is* still alive (47 years old at present time).
+She was taken captive by the wildling raiding party that ambushed them.
+After years of slavery, she managed to escape the wildling tribe.
+She wasn't able to find Grimdash because at this point, the pack had already migrated to a new hunting location.
 
-Our attention pans to a lone figure making his way from trading with the elves at Fort Soleil, and making his way back to his home in the wild.
+## TODO:
 
-Andrew can formally describe Grimdash here.
-
-> You make your way through the foothills and gain altitude, and you feel the familiar cold of the mountains start to seep into your clothes.
-> You approach the outskirts of your pack's hunting grounds.
-
-Make a DC10 perception or survival check.
-On success: you hear a stampeding herd of elk approaching your location and are able to get out of the way.
-On failure: take 1d4 bludgeoning damage as the herd of elk push their way past you.
-
-Continuing on to your pack's location, you notice that the familiar scents of your pack are tinged with blood and char.
-You come upon a horrific scene in the clearing.
-The bodies of your pack mates are strewn about, and it seems they've been murdered.
-
-A DC12 investigation check will reveal these following immediately, otherwise by the time you're done the sun is beginning to set.
-
-Investigating the bodies reveals
-
-- you determine the means of your packmates' deaths to be from purple scorch marks all over their bodies
-- you find a set of armor amongst the bodies (add Armor of Beasts to your inventory)
-- _if you touch the scorch marks_: a spark shoots from the wound and shocks what you touched it with
-
-Investigating the surrounding area reveals
-
-- humanoid footprints at a distance from where your pack's bodies are
-- purple scorch marks on the area across from the footprints
-- DC18 - droplets of zinoplasm near the footprints
-
-You head to Fort Soleil to report this to the guards.
-
-### Scene 2 - Fort Soleil
-
-**Woodland Army Captain NPC**
-
-Name: Theodas Faerora
-Gender: Male
-Race: Elf
-Appearance: Very well kempt Woodland Army uniform
-Goal: Be a good captain to his subordinates
-Quirk: Fabulously homosexual
-
-Theodas will initially dismiss Grimdash's claims as outrageous; who cares about a dead wolf pack?
-Theodas will change his mind and suggest taking Grimdash to Tomespire if:
-
-- Grimdash brings up the purple scorch makrs
-- Grimdash brings up finding the zinoplasm droplets
-- DC16 persuasion
-
-**Woodland Army Guard**
-
-Name: Elaith
-Gender: Male
-Race: Elf
-Appearance:
-Goal: Escort Grimdash to Tomespire
-Quirk:
-
-### Scene 3 - Mountain Trail
-
-Grimdash and Malak will arrive at the trail up to Tomespire at around the same time.
-Use Malak's section for this.
+- what has Tella been up to all these years?
