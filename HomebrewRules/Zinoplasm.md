@@ -65,6 +65,18 @@ When your number of exposure units increases by 1, roll a d20 and follow the ins
 
 ## Weapons:
 
+### Arcblade
+_Longsword, rarity unknown (requires attunement)_
+
+A longsword made of platinum alloy with arcane runes inscribed along the flat of the blade.
+As a bonus action, you can run your hand along the flat of the blade and speak the command word to activate the blade.
+
+While activated, the blade ripples with dark lightning and drips what seems to be zinoplasm on the ground.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals lightning damage instead of slashing damage.
+When you hit a creature with it, that creature's AEU's increase by 0.25.
+
+The rate at which you lose AEUs is halved while you hold this weapon.
+
 ### Zinobolt
 _1st level Evocation_
 
@@ -78,27 +90,30 @@ Make a ranged spell attack against the target.
 If the attack hits, the target
 
 - takes 2d8 lightning damage
-- increases their AEU's by 1.
-
-**At Higher Levels.**
-When this spell is cast using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+- increases their AEU's by 0.5.
+- lightning arcs from the target to a different creature of your choice that you can see within 5 feet of it.
+  The second creature takes 1d8 lightning damage.
 
 An object hit by this spell that isn't magical has no reaction.
 A magic object hit by this spell follows the rules for rolling _4-5_ on the table above.
 
+**At Higher Levels.**
+When this spell is cast using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
 ### Platinum Pulsar
-_Staff, rarity unknown, (requires attunement by a spellcaster)_
+_Quarterstaff, rarity unknown, (requires attunement by a spellcaster)_
 
-A staff constructed of platinum magically woven around a core of zinoplasm.
+A staff made of platinum alloy magically woven around a core of zinoplasm.
+You gain a +1 bonus to attack and damage rolls with this magic weapon and it deals lightning damage instead of bludgeoning.
 
-The rate at which you lose AEUs is halved while you hold this weapon.
-
-This staff has 10 charges.
+This staff has 6 charges.
 While holding it, you can use an action to expend 1 or more of its charges to cast the _zinobolt_ spell from it (1 charge per spell slot level used).
+The staff gains all expended charges daily at dawn.
 
-The staff gains 1d8 + 2 expended charges daily at dawn.
-If you expend the wand's last charge, roll a d20.
+If you expend the staff's last charge, roll a d20.
 On a 1, the staff explodes in a ball of lightning energy that expands out from you in a 20 foot radius.
-Creatures inside the lightning must make a Constitution saving throw (DC10).
+Creatures inside the lightning must make a Dexterity saving throw (DC13).
 On a failed save, the creature takes 2d8 lightning damage.
 On a successful save, it takes half as much.
+
+The rate at which you lose AEUs is halved while you hold this weapon.

@@ -7,12 +7,22 @@
 1. The lingering Kumerov researchers were steeped in grief over the lost of their province and loved ones, and continued their research when they relocated to Ironbrook in 2962 AE.
 1. The War of Bhelvaengr decimated Ironbrook in 3647 AE, including much of the Kumerov researchers' work.
 1. The few Kumerov researchers who were left escaped into the Vetrupyr Wastes and travelled along the foot of the mountains, eventually stumbling across a Young Blue Dragon named Avnal.
-Rather than fight Avnal, they decided to make a pact with Avnal: in exchange for the sorcerous power necessary to harness Zinoplasm, they would serve Avnal by decimating society and helping her rule over what's left.
-    - Blue Dragon fits here because they inhabit deserts/badlands (i.e. Vetrupyr Wastes)
-    - Blue Dragons == lightening damage which is a lot of what Zinoplasm does
-    - Avnal's layer is located in the wastes near a Zinoplasm mine.
-    Said location is about 40 miles west-north-west of Ironbrook.
-1. The Kumerov researchers would eventually re-adopt Ironbrook as their home, making use of the desolation of the War of Bhelvaengr by conscripting the survivors of Ironbrook to work the mine the town was named after.
+Rather than fight Avnal, they decided to make a pact with Avnal:
+  - Avnal would grant their three most adept magic users sorcerous powers
+  - In return, The Three would ally their forces with Avnal to bring destruction and tyranny to the civilized world
+1. Allied with Avnal, The Three and their forces travelled back to Ironbrook to establish their dominance over the resident wildlings and conscripting them to work the mine that Ironbrook was named after.
+  - There were portions of this mine that were cordoned off because of the uncovering of zinoplasm, but these fonts of the magical material were now the focus of the miners' work.
+  - This mine also provided The Three and their researchers with the materials they needed to study zinoplasm (such as platinum).
+
+## Anval's Baptism
+
+- In a recent ceremony developed by the Kumerov researchers, Avnal was baptized in a pit of zinoplasm.
+- This ceremony had several results:
+  - Avnal had all of the secrets of zinoplasm unlocked to him
+  - Avnal was bestowed with the seemingly divine power to create zinoplasm using a magical breath ability
+  - Avnal, drunk on this power, declared that his followers be named Avnal's Chosen, and all must worship and obey him
+- While the wildlings and The Three's researchers were quick to accept this leadership change, The Three themselves were wary because it seemed to shift the power entirely into Avnal's hands.
+
 
 ## Present Time
 
