@@ -13,7 +13,7 @@ To the east of the Scarred Lands is Blackmire, a swamp that stretches for miles 
 
 ## Ducelden Ruins
 
-**TODO**
+**[TODO]**
 
 ## Ironbrook City
 
@@ -21,9 +21,12 @@ A city named for the babbling mountain brook and the iron mine that it was found
 
 ## Straflan Ruins
 
-**TODO**:
-- is a wildling settlement
-- Orcs from Urkrugh have allied with the Lesser Giants from Crumbled Cave to lay seige to the city
+- wildling settlement
+- city is mostly lawless, but there is a gang of wildlings empowered by zinoplasmic weapons
+  - led by **[TODO]**
+  - called **[TODO]**
+  - they run a gladiator combat ring to enforce their power and kill those that oppose them
+  - when they don't actively have opponents to put in the ring, they capture Orcs from neighboring ruined settlements to force into the ring
 
 ## Wilderness Dungeons
 
@@ -49,9 +52,6 @@ The other d10 determined the inhabitants of the dungeon:
 ### Urkrugh
 
 An stronghold of Orcs at the source of the river that divides the Scarred Lands.
-
-**TODO:**
-- I think this is where Grimdash' dad is located
 
 ### Midmire
 
