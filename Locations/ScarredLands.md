@@ -21,12 +21,11 @@ A city named for the babbling mountain brook and the iron mine that it was found
 
 ## Straflan Ruins
 
-- wildling settlement
-- city is mostly lawless, but there is a gang of wildlings empowered by zinoplasmic weapons
+- orcish settlement
+- city is mostly lawless, but there is a gang of orcs empowered by zinoplasmic weapons
   - led by **[TODO]**
   - called **[TODO]**
   - they run a gladiator combat ring to enforce their power and kill those that oppose them
-  - when they don't actively have opponents to put in the ring, they capture Orcs from neighboring ruined settlements to force into the ring
 
 ## Wilderness Dungeons
 
@@ -49,13 +48,13 @@ The other d10 determined the inhabitants of the dungeon:
 - 7-8: higher CR monster
 - 9-0: empty
 
-### Urkrugh
+### Moonlit Grotto
 
-An stronghold of Orcs at the source of the river that divides the Scarred Lands.
+A sacred druidic site at the mouth of the river that splits the Scarred Lands.
 
 ### Midmire
 
-A ruined settlement inhabited by Wildlings. 
+A ruined settlement inhabited by Orcs. 
 
 ### Crumbled Cave
 
@@ -63,7 +62,7 @@ A monster lair inhabited by Lesser Giants.
 
 ### Blackhill Fort
 
-A ruined fort inhabited by Wildlings.
+An abandoned ruined fort.
 
 ### Webbed Lair
 
@@ -75,7 +74,7 @@ A ruined settlement inhabited by Orcs.
 
 ### Oldcrest
 
-A ruined settlement inhabited by a Wyvern.
+A ruined settlement inhabited by Wildlings.
 
 ### Kilkenny
 
@@ -93,6 +92,6 @@ A mausoleum inhabited by a powerful Undead.
 
 A ruined settlement inhabited by Wildlings.
 
-### Dripping Grotto
+### Dripping Caverns
 
-A moist cave inhabited by Lizardfolk.
+A moist cave inhabited by a Wyvern.
