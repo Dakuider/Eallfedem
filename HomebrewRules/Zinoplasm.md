@@ -24,10 +24,20 @@ Exposure to zinoplasm is measured in Accumulated Exposure Units (AEUs), and it d
         - 1 foot of wood
         - 4 inches of stone
         - 1 inch of steel
+        - wearing a Zinoti Medallion
  - Thick enough layers of valuable metals completely block the gaining of AEUs:
         - 0.1 inches of platinum
         - thickness of other valuable metals are based on exchange rate table (pg. 143 in PHB)
  - Gained AEUs under 1/8 should not be tracked.
+
+## Resistance to Exposure Units
+
+For each 24 hours spent with AEUs > 0, you gain one layer of natural shielding to zinoplasm, but the material begins to affect your mind and body permanently.
+For each level of natural shielding, a portion of your body gives of a dim purple glow.
+When your AEUs increases by 1:
+- Ignore effects due to 10 or more AEUs.
+- You can choose to re-roll your d20.
+  If you do, cast the _confusion_ spell on yourself (save DC13).
 
 ## Losing Exposure Units
 
