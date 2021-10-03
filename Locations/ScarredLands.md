@@ -56,6 +56,10 @@ A sacred druidic site at the mouth of the river that splits the Scarred Lands.
 
 A ruined settlement inhabited by Orcs. 
 
+### Urkrugh
+
+The Orcs' "capital" cave lair located in the Strael Mountains.
+
 ### Crumbled Cave
 
 A monster lair inhabited by Lesser Giants.
