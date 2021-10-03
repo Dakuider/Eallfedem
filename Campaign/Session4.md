@@ -8,14 +8,13 @@
   - strange group of people at the Blackhill Fort, which up until recently had been abandoned
   - Yelena, researchers, and lizardfolk were there
   - They seemed to be having a low-key celebration
+  - Elaith's patrol was attacked on their way back to make their report
 
 
 ## Ambushed Patrol
 
 - 3 miles north-north east of Webbed Lair
-- as party approaches location, Elaith warns to keep eyes peeled for spiders and for wildlings, since they're near Blackhill Fort
-  - Blackhill fort was abandoned up until recently
-  - patrol was doing recon, found wildlings and were heading back to make their report when they were attacked
+- as party approaches location, Elaith warns to keep eyes peeled for spiders and enemies, since they're near Blackhill Fort
 - 4 Woodland guard corpses remain
   - Elaith explains there should be two more guards' bodies
   - DC11 (or half an hour) investigation will reveal evidence of tracks leading south-south west
@@ -25,26 +24,41 @@
     - 1 - 7: an hour
     - 8 - 15: 40 minutes
     - 16+: 20 minutes 
-- party will be ambushed by 2d6 Giant Wolf Spiders as they approach the Webbed Lair
+- first time 1 - 7 is rolled or in the last mile: party will be ambushed by 2d6 Giant Wolf Spiders as they approach the Webbed Lair
 
 
 ## Webbed Lair
 
 - webs in lair follow rules from Web spell
   - DC16 for STR and DEX saves
-  - AC10 (miss disarms player, spend movement to retrieve weapon)
+  - AC10 (melee miss disarms player, spend half movement to retrieve weapon)
   - 10HP (weak to fire)
 - population
-  - 1 giant spider in first chamber
-  - 2 giant spiders in second chamber
   - 1 phase spider in final chamber
-- treasure
-  - 3d6 X 100 CP
-  - 3d6 x 50 SP
-  - 2d6 x 10 GP
-  - 2d6 10GP Gems
+  - 3 giant wolf spiders scattered
+  - 2 giant spiders scattered
+- treasure in body room
+  - corpses of Woodland Army soldiers
+  - 800 CP (3d6 X 100)
+  - 1100 SP (3d6 x 50)
+  - 90 GP (2d6 x 10)
+  - 10 10GP Gems (2d6)
+    - includes eye agate, obsidian, lapis lazuli
   - 2 potions of healing
   - Web Spell Scroll
+- bone piles
+  - DC15 perception to notice bone piles
+  - DC10 investigation get full, less get half
+
+| d100  | CP  | SP  | Gems | GP  | PP  |
+| ----- | --- | --- | ---- | --- | --- |
+| 01-30 | 5d6 | --  | --   | --  | --  |
+| 31-60 | --  | 4d6 | --   | --  | --  |
+| 61-70 | --  | --  | 1d6  | --  | --  |
+| 71-95 | --  | --  | --   | 3d6 | --  |
+| 96-00 | --  | --  | --   | --  | 1d6 |
+
+- barrels in final chamber have traces of zinoplasm and are platinum lined
 
 
 ## Kumerovian Researchers at Blackhill Fort
@@ -53,9 +67,15 @@
 - Webbed Lair will have zinoplasm pit surrounded by arcane runes
 - Researchers will have left Blakhill Fort by the time the party takes care of the phase spider
 - Things to be found at Blackhill Fort:
-  - Notes of these same arcane runes that surrounded the zinoplasm pit
+  - Researcher's notebook
+    - will have runes in it that match the runes surrounding the zinoplasm pit
+    - will be written in Kumerovian
+      - Elyas will recognize this language
+      - History check will reveal
+        - DC5: seems to be describing the ritual that was performed in the Webbed Lair
+        - DC13: mentions plans for more experiments
+        - DC20: mentions plans to perform this ritual on a dragon
   - Traces of zinoplasm
-  - maybe a discovery of how to track zinoplasm over longer distances
 
 
 ## Grimdash' Druidic Callings
