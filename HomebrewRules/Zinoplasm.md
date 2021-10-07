@@ -108,29 +108,47 @@ For example:
 - A Giant Spider will become a Phase Spider, the ultimate hunter beast.
 - An Orc will become a Tanarukk, the epitome of a raging warrior.
 
-Grimdash's special abilities:
+#### Grimdash's Special Abilities
+
 - He can use his action to polymorph into a wolf-humanoid hybrid (MM 211).
 - He gains proficiency in Stealth.
 - His Strength becomes 15.
 - His Hybrid form base AC is 13.
 
-Elyas' special abilities:
+#### Elyas' Special Abilities
+
 - He becomes Half-Dragon (MM 180).
 - He gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 - He gains resistance to lightning damage.
 - He can speak Draconic.
 - He gains the Blue Dragon Wyrmling _Lightning Breath_ ability.
 
-Malak's special abilities:
-- He becomes a modified Scourge Aasimar (VGM 105).
-- His Charisma score increases by 2.
-- He gains resistance to lightning damage (i.e. zinoplasm effect damage is null).
-- He can cast _shocking grasp_ as a bonus action.
-- He can speak, read, and write Celestial.
-- His _Radiant Consumption_ is instead a _Lightning Consumption_ (lightning damage)
-  - Does lightning damage instead of radiant.
-  - His aura doesn't damage him on the end of his turn, but he has to option to make the damage output equal to his level if he takes damage equal to half his level.
-  - At the end of combat, this ability "recharges" on a 5 or a 6.
+#### Malak's Special Abilities
+
+***Ability Score Increase.***
+Your Charisma score increases by 2.
+
+***Lightning Resistance.***
+You take half damage when the type is lightning.
+In addition, effects resulting from zinoplasm can no longer damage you.
+
+***Channel Energy***
+You can cast the _shocking grasp_ cantrip as a bonus action.
+
+***Celestial Connection***
+This experience seems to have brought you closer to the gods; in particular, Žinóti.
+You can speak, read, and write Celestial.
+
+***Radiant Consumption.***
+You can use your action to unleash the divine magical energy within yourself, causing a searing light and lightning to radiate from you, pour out of your eyes and moth, and threaten to char you.
+Your transformation lasts for 1 minute or until you end it as a bonus action.
+During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet.
+At the end of each of your turns, each creature with 10 feet of you takes lightning damage equal to half your level (rounded up).
+You may choose to "overcharge" this radiance at the end of your turn to take lightning damage equal to half your level (rounded up) in order to deal lightning damage equal to your level to each creature within 15 feet of you.
+In addition, once on each of your turns, you can deal extra lightning damage to one target when you deal damage to it with an attack or a spell.
+The extra lightning damage equals your level.
+Once you use this trait, it has a chance to recharge at the end of combat if you roll a 5-6 on a d6.
+Otherwise, you can't use it again until you finish a long rest.
 
 ## Weapons:
 
