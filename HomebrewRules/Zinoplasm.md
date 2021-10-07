@@ -32,14 +32,14 @@ Accumulating (or losing) _dm_ is dependent upon time exposed, distance to zinopl
         - thickness of other valuable metals are based on exchange rate table (pg. 143 in PHB)
  - Gained _dm_ under 1/8 should not be tracked.
 
-It's often easier to measure _dm_ in d_dm_ (deci-Denmats).
+It's often easier to measure _dm_ in _ddm_ (deci-Denmats).
 
 | Combat Round Exposure  | No Shielding | 1 Shielding | 2 Shielding | 3 Shielding |
 | ---                    | ---          | ---         | ---         | ---         |
-| Touching zinoplasm     | 60 d_dm_       | 30 d_dm_      | 15 d_dm_      | 7 d_dm_       |
-| w/in 20ft of zinoplasm | 10 d_dm_       | 5 d_dm_       | 2 d_dm_       | 1 d_dm_       |
-| w/in 40ft of zinoplasm | 5 d_dm_        | 2 d_dm_       | 1 d_dm_       | --          |
-| w/in 60ft of zinoplasm | 2 d_dm_        | 1 d_dm_       | --          | --          |
+| Touching zinoplasm     | 60 _ddm_     | 30 _ddm_    | 15 _ddm_    | 7 _ddm_     |
+| w/in 20ft of zinoplasm | 10 _ddm_     | 5 _ddm_     | 2 _ddm_     | 1 _ddm_     |
+| w/in 40ft of zinoplasm | 5 _ddm_      | 2 _ddm_     | 1 _ddm_     | --          |
+| w/in 60ft of zinoplasm | 2 _ddm_      | 1 _ddm_     | --          | --          |
 
 ## Resistance to Exposure Units
 
@@ -61,18 +61,18 @@ Four layers of shielding makes you immune to the effects of zinoplasm.
 
 ## Exposure Unit Effects
 
-Some of your skin becomes a deep purple color and gives off a dim purple glow in the following order based on the number of d_dm_ you have: 
+Some of your skin becomes a deep purple color and gives off a dim purple glow in the following order based on the number of _ddm_ you have: 
 
-- _10-19 d_dm__: Fingers and toes.
-- _20-29 d_dm__: Hands and feet.
-- _30-39 d_dm__: Forearms and calves.
-- _40-49 d_dm__: Upper arms and legs.
-- _50-59 d_dm__: Hips and groin.
-- _60-69 d_dm__: Abdomen.
-- _70-79 d_dm__: Chest.
-- _80-89 d_dm__: Shoulders and neck.
-- _90-99 d_dm__: Bottom half of head.
-- _100+ d_dm__: Top half of head.
+- 10-19 _ddm_: Fingers and toes.
+- 20-29 _ddm_: Hands and feet.
+- 30-39 _ddm_: Forearms and calves.
+- 40-49 _ddm_: Upper arms and legs.
+- 50-59 _ddm_: Hips and groin.
+- 60-69 _ddm_: Abdomen.
+- 70-79 _ddm_: Chest.
+- 80-89 _ddm_: Shoulders and neck.
+- 90-99 _ddm_: Bottom half of head.
+- 100+ _ddm_: Top half of head.
 
 When your number of exposure units increases into a new threshold above, roll a d20 and follow the instructions on the table below.
 When "_n_" is mentioned, it is the number indicated as the floor of the new threshold of _dm_.
@@ -170,7 +170,7 @@ As a bonus action, you can run your hand along the flat of the blade and speak t
 
 While activated, the blade ripples with dark lightning and drips what seems to be zinoplasm on the ground.
 You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals lightning damage instead of slashing damage.
-When you hit a creature with it, that creature's d_dm_ increases by 2.
+When you hit a creature with it, that creature's _ddm_ increases by 2.
 
 The rate at which you lose _dm_ is halved while you hold this weapon.
 
@@ -187,7 +187,7 @@ Make a ranged spell attack against the target.
 If the attack hits, the target
 
 - takes 2d8 lightning damage
-- increases their d_dm_ by 5.
+- increases their _ddm_ by 5.
 - lightning arcs from the target to a different creature of your choice that you can see within 5 feet of it.
   The second creature takes 1d8 lightning damage.
 
