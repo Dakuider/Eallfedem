@@ -10,14 +10,16 @@ Because of this depth, zinoplasm is generally only found in mines.
 ## Interaction with Zinoplasm
 
 Being in proximity to zinoplasm affects living beings and magical items.
-Exposure to zinoplasm is measured in Accumulated Exposure Units (AEUs), and is dependent upon time, distance, and shielding.
+Exposure to zinoplasm is measured in units called Denmats (_dm_).
+These are named after Gestin Denmat, the gnomish tinkerer who did the first experiments to understand zinoplasm.
+Accumulating (or losing) _dm_ is dependent upon time exposed, distance to zinoplasm, and shielding from zinoplasm.
 
 ## Gaining Exposure Units
 
- - Coming into direct physical contact with Zinoplasm gives you 1 AEU per second of contact.
- - Being unshielded within 20 feet of Zinoplasm gives you 1 AEU per 6 seconds of proximity.
- - Every 20 foot interval of separation cuts the gained AEUs in half.
- - Every layer of adequate shielding cuts the gained AEUs in half.
+ - Coming into direct physical contact with Zinoplasm gives you 1 _dm_ per second of contact.
+ - Being unshielded within 20 feet of Zinoplasm gives you 1 _dm_ per 6 seconds of proximity.
+ - Every 20 foot interval of separation cuts the gained _dm_ in half.
+ - Every layer of adequate shielding cuts the gained _dm_ in half.
     - Adequate shielding includes:
         - 10 feet of earth
         - 5 feet of water
@@ -25,16 +27,25 @@ Exposure to zinoplasm is measured in Accumulated Exposure Units (AEUs), and is d
         - 4 inches of stone
         - 1 inch of steel
         - wearing a Zinoti Medallion
- - Thick enough layers of valuable metals completely block the gaining of AEUs:
+ - Thick enough layers of valuable metals completely block the gaining of _dm_:
         - 0.1 inches of platinum
         - thickness of other valuable metals are based on exchange rate table (pg. 143 in PHB)
- - Gained AEUs under 1/8 should not be tracked.
+ - Gained _dm_ under 1/8 should not be tracked.
+
+It's often easier to measure _dm_ in d_dm_ (deci-Denmats).
+
+| Combat Round Exposure  | No Shielding | 1 Shielding | 2 Shielding | 3 Shielding |
+| ---                    | ---          | ---         | ---         | ---         |
+| Touching zinoplasm     | 60 d_dm_       | 30 d_dm_      | 15 d_dm_      | 7 d_dm_       |
+| w/in 20ft of zinoplasm | 10 d_dm_       | 5 d_dm_       | 2 d_dm_       | 1 d_dm_       |
+| w/in 40ft of zinoplasm | 5 d_dm_        | 2 d_dm_       | 1 d_dm_       | --          |
+| w/in 60ft of zinoplasm | 2 d_dm_        | 1 d_dm_       | --          | --          |
 
 ## Resistance to Exposure Units
 
-For each consecutive 72 hour period spent with AEUs > 0 or as a result of succeeding zinoplasm saving throws (described below), you gain one layer of "natural shielding" to zinoplasm, but the material begins to affect your mind and body permanently.
-For each level of natural shielding, a portion of your body gives of a dim purple glow.
-One layer of shielding allows you to ignore the "At 10 or more AEUs" section, but only if you've gone through the process once.
+For each consecutive 72 hour period spent with _dm_ > 0 or as a result of succeeding zinoplasm saving throws (described below), you gain one layer of "natural shielding" to zinoplasm, but the material begins to affect your mind and body permanently.
+For each level of natural shielding, a portion of your body gives off a dim purple glow.
+One layer of shielding allows you to ignore the "At 10 or more _dm_" section, but only if you've gone through the process once.
 Two layers of shielding halves damage from zinoplasm effects, but the _confusion_ spell is cast on you (DC10) when you take damage in this way.
 Three layers of shielding allows you to re-roll your effect d20 when determining zinoplasm exposure effects.
 If you do, the _confusion_ spell is cast on you (DC13)
@@ -42,30 +53,29 @@ Four layers of shielding makes you immune to the effects of zinoplasm.
 
 ## Losing Exposure Units
 
-- Casting Dispel Magic on yourself removes 1 AEU, and an additional AEU for each level of spell slot used above 3rd-level.
-- For every 15 minutes spent not gaining AEUs, your active AEU count is reduced by 0.25.
-- For each collection of hit points healed equal to the max value of your hit die, your AEU count is reduced by 1.
-  For example: being healed 8HP when your hit die is a d8 reduces your AEU count by 1.
-  Being healed 4HP when your hit die is a d8 reduces your AEU count by 1/2.
+- Casting Dispel Magic on yourself removes 1 _dm_, and an additional _dm_ for each level of spell slot used above 3rd-level.
+- For every 15 minutes spent not gaining _dm_, your active _dm_ count is reduced by 0.25.
+- For each collection of hit points healed equal to the max value of your hit die, your _dm_ count is reduced by 1.
+  For example: being healed 8HP when your hit die is a d8 reduces your _dm_ count by 1.
+  Being healed 4HP when your hit die is a d8 reduces your _dm_ count by 1/2.
 
 ## Exposure Unit Effects
 
-Some of your skin becomes a deep purple color and gives off a dim purple glow in the following order based on the number of AEUs you have: 
+Some of your skin becomes a deep purple color and gives off a dim purple glow in the following order based on the number of d_dm_ you have: 
 
-- _AEUs < 1_: None
-- _1 <= AEUs < 2_: Fingers and toes.
-- _2 <= AEUs < 3_: Hands and feet.
-- _3 <= AEUs < 4_: Forearms and calves.
-- _4 <= AEUs < 5_: Upper arms and legs.
-- _5 <= AEUs < 6_: Hips and groin.
-- _6 <= AEUs < 7_: Abdomen.
-- _7 <= AEUs < 8_: Chest.
-- _8 <= AEUs < 9_: Shoulders and neck.
-- _9 <= AEUs < 10_: Bottom half of head.
-- _AEUs >= 10_: Top half of head.
+- _10-19 d_dm__: Fingers and toes.
+- _20-29 d_dm__: Hands and feet.
+- _30-39 d_dm__: Forearms and calves.
+- _40-49 d_dm__: Upper arms and legs.
+- _50-59 d_dm__: Hips and groin.
+- _60-69 d_dm__: Abdomen.
+- _70-79 d_dm__: Chest.
+- _80-89 d_dm__: Shoulders and neck.
+- _90-99 d_dm__: Bottom half of head.
+- _100+ d_dm__: Top half of head.
 
 When your number of exposure units increases into a new threshold above, roll a d20 and follow the instructions on the table below.
-When "_n_" is mentioned, it is the number indicated as the floor of the new threshold of AEUs.
+When "_n_" is mentioned, it is the number indicated as the floor of the new threshold of _dm_.
 
  - _1_: You take _n_d4 lightning damage.   
  - _2-3_: You regain a spent spell slot, starting with the lowest level spent spell slot you have.
@@ -81,9 +91,9 @@ When "_n_" is mentioned, it is the number indicated as the floor of the new thre
  - _20_: You feel invigorated by magical energy.
    Roll one of your hit dice and increase your current hit points by the result (hit points over your maximum are temporary).
 
-### At 10 or more AEUs
+### At 10 or more _dm_
 
-Whenever you start your turn with 10+ AEUs, you must make a special saving throw, called a zinoplasm saving throw.
+Whenever you start your turn with 10+ _dm_, you must make a special saving throw, called a zinoplasm saving throw.
 Unlike other saving throws, this one isn't tied to any ability score.
 You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on a saving throw.
 
@@ -95,7 +105,7 @@ Once you've accrued three successes or failures, you gain a layer of natural shi
 On your third success, you gain a layer of natural shielding to zinoplasm and a new special ability.
 On your third failure, you gain a layer of natural shielding to zinoplasm, but you drop to 0 hit points.
 The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind.
-The number of both is reset to zero when you reduce your AEUs to below 10.
+The number of both is reset to zero when you reduce your _dm_ to below 10.
 
 _Rolling 1 or 20_: When you make a zinoplasm saving throw and roll a 1 on the d20, it counts as two failures.
 If you roll a 20 on the d20, it counts as 2 successes.
@@ -160,9 +170,9 @@ As a bonus action, you can run your hand along the flat of the blade and speak t
 
 While activated, the blade ripples with dark lightning and drips what seems to be zinoplasm on the ground.
 You gain a +1 bonus to attack and damage rolls made with this magic weapon, which deals lightning damage instead of slashing damage.
-When you hit a creature with it, that creature's AEU's increase by 0.25.
+When you hit a creature with it, that creature's d_dm_ increases by 2.
 
-The rate at which you lose AEUs is halved while you hold this weapon.
+The rate at which you lose _dm_ is halved while you hold this weapon.
 
 ### Zinobolt
 _1st level Evocation_
@@ -177,7 +187,7 @@ Make a ranged spell attack against the target.
 If the attack hits, the target
 
 - takes 2d8 lightning damage
-- increases their AEU's by 0.5.
+- increases their d_dm_ by 5.
 - lightning arcs from the target to a different creature of your choice that you can see within 5 feet of it.
   The second creature takes 1d8 lightning damage.
 
@@ -203,4 +213,4 @@ Creatures inside the lightning must make a Dexterity saving throw (DC13).
 On a failed save, the creature takes 2d8 lightning damage.
 On a successful save, it takes half as much.
 
-The rate at which you lose AEUs is halved while you hold this weapon.
+The rate at which you lose _dm_ is halved while you hold this weapon.
