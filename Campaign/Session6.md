@@ -24,8 +24,7 @@
 
 - Grimdash should have dreams as it nears the full moon that call him to the Moonlit Grotto
 - When he/the party arrives he finds:
-  - **[TODO]** flesh out druid NPCs
-  - two druids trying to perform a ritual on a "Zinowolf"
+  - druids trying to perform a ritual on a "Zinowolf"
     - Zinowolf is a Hell Hound re-skinned
       - lightning damage
       - fur bristling with purple lightning
@@ -37,10 +36,35 @@
   - helping the druids
     - he and the druids will need to collectively achieve a Nature DC of 50
     - each time DC isn't met, Rieka must make a Constitution save DC 12 or take 1d6 radiant damage
-- Two druids are Tilla's druidic circle, and can explain
+- druids are Tilla's druidic circle, and can explain
   - What happened to Gashna and Tilla
   - The guerilla war they wage against the orcs
   - The recent alliance between the orcs and the Kumerovian Triad
+
+
+- **Protector of the Moonlit Grotto and the Luan River**
+  - Male halfling named Lyle
+    - Leader of the group
+    - only one who seems to take his role seriously
+    - prefers Constrictor Snake for his Wild Shape
+- **Protector of the southern Dirkenmos Forest**
+  - Male human named Kieran
+    - youngest of the group, seems kind of stupid
+    - seems like he has the hots for Enna, but has _no_ chance
+    - good with animals (like, better than the other druids)
+    - prefers Brown Bear for his Wild Shape
+- **Protector of the mid Dirkenmos Forest**
+  - Female wood elf named Enna's station
+    - she was an archeologist for OotT but fell in love with this forest
+    - dark / emo personality
+    - is technically a wizard
+    - has a raven familiar
+- **Protector of the northern Dirkenmos Forest and Ironbrook River**
+  - This was Tilla's station, and has yet to be filled
+- **Protector of the sea**
+  - Male Triton named Keros' station
+    - has a hippy "live-in-the-moment" attitude
+    - prefers the Crocodile for his Wild Shape
 
 
 ## Party's Imprisonment
