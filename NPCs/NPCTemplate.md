@@ -1,55 +1,42 @@
 # NPC Name
 ### Alignment
 
-## Who are they?
+## Appearance
 
-### Appearance
+_Race, gender, age?_
+_What are they wearing?_
+_What's something unique about their appearance?_
 
-Race, gender, age?
-What are they wearing?
-What's something unique about their appearance?
 
-### Occupation / Daily Life?
+## Occupation / Daily Life?
 
-What do they do to get by?
-Do they enjoy what occupies their daily lives?
-Are they passionate about something else?
-Is their occupation secure?
+_What do they do to get by?_
+_Do they enjoy what occupies their daily lives?_
+_Are they passionate about something else?_
+_What's their stake in their occupation/passion?_
 
-## How are they?
 
-### Interaction
+## Interaction
 
-How do they respond to conversation?
-What's unique about their personality?
+_How do they respond to conversation?_
+_What's unique about their personality?_
 
-### Weakness
 
-What are they bad at?
+## Goal
 
-### Need
+_What do they want?_
+_What do they need in order to achieve this goal?_
 
-What do they need to improve themselves?
 
-### Desire
+## Conflict
 
-What do they want?
+_Who or what is in their way of their goal?_
+_What are they bad at?_
 
-### Enemy / Obstacle
-
-Who or what is in their way of their need?
 
 ## Why do PCs care?
 
-### Useful Knowledge
-
-Do they have a rumor or secret to share?
-Will this lead to a side quest or continue main plot?
-
-### Magic Possession
-
-Do they possess a magical item or secret the PCs would be interested in?
-
-### Job Offer
-
-Will they offer the PCs something to complete a task?
+_Do they have a rumor or secret to share?_
+_Will this lead to a side quest or continue main plot?_
+_Do they possess a magical item or secret the PCs would be interested in?_
+_Will they offer the PCs something to complete a task?_
