@@ -5,6 +5,7 @@
 
 Male triton approaching 100 years old.
 He wears armor seemingly made of fish scales and has blue skin and bright green hair.
+Preferred Wild Shape is a Crocodile.
 
 
 ## Occupation / Daily Life?

@@ -5,6 +5,7 @@
 
 Male human in his mid 20s.
 Has vividly green eyes.
+Preferred Wild Shape is a Brown Bear.
 
 
 ## Occupation / Daily Life?
@@ -17,6 +18,7 @@ Before he became a druid, he was a wildling that lived in Kilkenny.
 ## Interaction
 
 He's **friendly** to the party, but **protective** of Enna.
+He's the most adept at interacting with animals.
 
 
 ## Goal

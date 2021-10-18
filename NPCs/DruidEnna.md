@@ -5,6 +5,7 @@
 
 Female elf who's age is difficult to discern.
 She has long red hair with braids.
+Preferred Wild Shape is **[TODO]**
 
 
 ## Occupation / Daily Life?

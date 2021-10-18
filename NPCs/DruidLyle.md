@@ -5,6 +5,7 @@
 
 Male halfling approaching 100 years old.
 Fantastic beard riddled with leaves.
+Preferred Wild Shape is **[TODO]**
 
 
 ## Occupation / Daily Life?
