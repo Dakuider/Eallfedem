@@ -1,4 +1,12 @@
+## Notes
+
+- Malak is at threshold of 1-2 for wild surges
+- Everyone has waited out their exposure to zinoplasm
+
+
 ## Grimdash' Druidic Callings
+
+ - ambience: https://youtu.be/krl4XVqrqs8
 
 - Grimdash had a dream of following the spectral form of Tilla's wild shape to the Moonlit Grotto
 - Upon arriving, the party was accosted by Lyle
@@ -15,9 +23,79 @@
 - Lyle suggests messing up the new alliance as a way of combating the Orcs / Triad
 
 
+## Help Action(s)
+
+- Pretend to be Triad emissaries (or one emissary with prisoners)
+
+
+## Sneak Past Orcish Problem
+
+- Consequence(s)
+  - Hurt the party's relationship with the druids
+  - End up with Lyle dying
+
+- Ask druids for help?
+  - Yes -> Enna/Kieran would go with them
+    - Druids would offer two options:
+      - Try and sneak through Orcish territory
+        - high chance of Orcs capturing them
+        - easier pace because flat/temperate climate
+        - potential for grassland random monster encounters
+      - Go all the way around to travel through the Dirkenmos Forest
+        - safe, but very slow
+        - potential for forest random monster encounters
+  - No -> Party would have to decide what path to take
+    - Mountain path
+      - little chance of Orcs finding them
+      - slow pace because mountains/cold
+      - potential for mountainous random monster encounters
+    - Through Orcish territory
+      - will need to go through skill challenge to find path
+      - same as with druids, but druids give advantage on stealth rolls
+
+
+## Turn the Orcs Against the Triad
+
+- Consequence(s):
+  - Have to figure out what to do with Orcs post Triad confrontation
+  - Potential to have Lyle die (if they mess up)
+
+- Lyle would help party (if asked)
+
+Orc-Triad alliance is based on
+- first shipment of zinoplasm weapons (10-20 weapons)
+- successful ritual to turn orc war chief into Tanarukk
+- promise of loot through destruction of civilization
+
+- Convince Orcs that weapons are faulty
+- Convince Orcs that Triad is just using the Orcs / will turn on them
+- Convince Orcs that Tanarukk is under Triad's control / will turn on the Orcs
+- Kill Tanarukk and assume control of the Orcs through display of power
+
+
+## Wildling - Orcish War
+
+- Keros would help party (if asked)
+
+- Unite the wildling population (Kilkenny, Ducelden, and Millstone) to go to war against the Orcs to take back their homeland
+
+
+## Orcish Patrol Encounter
+
+ - 2d6 Red Fangs of Shargaas on Giant Bats ambush them
+ - if party defeats orcs, go to **Trial by Combat**
+
+
+## Trial by Combat
+
+- will have to fight Tanarukk in the Straflan Ruins colosseum
+- colosseum would still have pit of zinoplasm that was used to create the Tanarukk
+- might need to balance with either multiple Tanarukks or more orcs?
+
+
 ## Party's Imprisonment
 
-- when party takes rest within 10 miles of Straflan Ruins, 2d6 Red Fangs of Shargaas on Giant Bats ambush them
+- when party takes rest within 10 miles of Straflan Ruins, 
 
 
 # Return to Lillied
