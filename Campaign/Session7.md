@@ -3,6 +3,18 @@
 - Malak is at threshold of 1-2 for wild surges
 - Everyone has waited out their exposure to zinoplasm
 
+- **[TODO]** Finish map of Straflan Sewers
+- **[TODO]** Create battle map for Zilug's chambers
+- **[TODO]** Find/create generic mountain battle map
+- **[TODO]** Find/create generic plains battle map
+- **[TODO]** Find/create colosseum (w/ zinoplasm pit) battle map
+- **[TODO]** Add Kumerovian aide token and char sheet
+  - **[TODO??]** Flesh out Kumerovian aide character for if they recognize Elyas
+- **[TODO]** Add Blade of Illenval token and char sheet
+- **[TODO]** Add Griffons token and char sheet
+- **[TODO]** Add Red Fang token and char sheet
+- **[TODO]** Add Zilug token and char sheet
+
 
 ## Grimdash' Druidic Callings
 
@@ -23,79 +35,133 @@
 - Lyle suggests messing up the new alliance as a way of combating the Orcs / Triad
 
 
-## Help Action(s)
+## Strategy Discussion with Druids
 
-- Pretend to be Triad emissaries (or one emissary with prisoners)
+- With Lyle's suggestion about breaking up alliance, Enna reveals that
+  - some of the orcs are unhappy with the alliance
+  - these orcs immediately challenged the war chief turned Tanarukk (named Zilug)
+  - Zilug struck down the leader of the orcs that challenged him with ease
+- Enna offers that if Zilug were killed, the alliance would likely fail and the power vacuum could present a major opportunity
+
+- Keros speaks up at this point
+  - he's swam past the Straflan Ruins many times on his way to join the Circle
+  - he's noticed an entrance to some sewers that seem to have run dry over years of being unused
+  - suggests that this could be a sneaky way into Straflan Ruins to attempt to assassinate Zilug
+
+- Lyle thinks for a little bit and then...
+  - asks Elyas if he can speak Kumerovian or if he knows *anything* about the culture
+    - Elyas makes a DC10 History check
+      - if he succeeds, he'll remember a phrase from his childhood that his mother would sometimes say: "knowledge is power"
+      - if he fails, he only vaguely remembers "hello"
+  - asks Enna that if during the spy mission she noticed the Triad members speaking Kumerovian
+  - suggests that maybe they could disguise the party
+  - Elyas as a Kumerovian that captured Malak and Grimdash
+
+- At this point, Kieran changes back into his human form
+- He suggests that the party just leaves, and runs back to Ironbrook, where Elyas belongs
+- Enna rolls her eyes at this
+- Lyle frowns and says
+  - the party is welcome to be on their way to deal with the threat in Ironbrook
+  - the druids can handle the Orcs
+  - however, moving through Orcish territory will be dangerous
+
+
+## Assassination of Zilug
+
+- once within 5 miles of Straflan Ruins, party should make a stealth check
+  - if they don't, *go to* **Orcish Patrol Encounter**
+- sewer entrance is about five hundred feet south of the bridge to the Straflan Ruins
+  - there will be Red Fangs of Shargaas guarding the sewer that the party will need to deal with
+  - *go to* **Orcish Patrol Encounter**
+
+- if party manages to defeat the Orcish Patrol, they'll need to stealth through the main area of the Straflan Sewers
+  - this will likely be impossible unless the party either
+    - waits till deep in the night for orcs to cycle to sleep
+    - disguises themselves as Red Fangs (DC18 deception/disguise kit)
+
+
+## Disguise as Kumerovian Emissary
+
+- persuading enemies for this challenge will require beating their Wisdom stat
+  - good role playing / decisions will result in advantage on Persuasion/Deception checks
+  - poor role playing / decisions will result in disadvantage on Persuasion/Deception checks
+- party will need to make their way past
+  - regular orc guards at the border of Straflan Ruins
+  - Blade of Illenval in Straflan Sewers Common Area
+  - Kumerovian aide outside Zilug's chambers
+    - Elyas can gain advantage here if he mentions the "Knowledge is Power" phrase in Kumerovian
+    - Elyas will be recognized as his father on a DC18 "luck" check
 
 
 ## Sneak Past Orcish Problem
 
-- Consequence(s)
-  - Hurt the party's relationship with the druids
-  - End up with Lyle dying
+- Roll for weather at beginning of each day based on DMG 109
+- If party continues to travel after combat, each travel segment they must succeed a DC12 Constitution saving throw or gain a level of exhaustion
 
-- Ask druids for help?
-  - Yes -> Enna/Kieran would go with them
-    - Druids would offer two options:
-      - Try and sneak through Orcish territory
-        - high chance of Orcs capturing them
-        - easier pace because flat/temperate climate
-        - potential for grassland random monster encounters
-      - Go all the way around to travel through the Dirkenmos Forest
-        - safe, but very slow
-        - potential for forest random monster encounters
-  - No -> Party would have to decide what path to take
-    - Mountain path
-      - little chance of Orcs finding them
-      - slow pace because mountains/cold
-      - potential for mountainous random monster encounters
-    - Through Orcish territory
-      - will need to go through skill challenge to find path
-      - same as with druids, but druids give advantage on stealth rolls
+- *Perception*
+  - in general for random encounters, mobs will roll stealth against player's passive perception
+  - party can have option to roll perception at beginning of each travel segment to replace their passive
 
+- *Navigation*
+  - party navigator rolls Survival
+  - navigator has advantage if they have a guide, or they can perceive a landmark
+    - _0-5_: party makes 3 miles of progress in 2 hours 90 degrees rotated from Ironbrook
+      - even: south / odd: north
+    - _6-11_: party makes 6 miles of progress in 2 hours 45 degrees rotated from Ironbrook 
+      - even: south / odd: north
+    - _12-19_: party makes 6 miles of progress in 2 hours directly towards Ironbrook
+    - _20_: party makes 6 miles of progress in 2 hours in ideal direction
+    - successful check results in party
 
-## Turn the Orcs Against the Triad
-
-- Consequence(s):
-  - Have to figure out what to do with Orcs post Triad confrontation
-  - Potential to have Lyle die (if they mess up)
-
-- Lyle would help party (if asked)
-
-Orc-Triad alliance is based on
-- first shipment of zinoplasm weapons (10-20 weapons)
-- successful ritual to turn orc war chief into Tanarukk
-- promise of loot through destruction of civilization
-
-- Convince Orcs that weapons are faulty
-- Convince Orcs that Triad is just using the Orcs / will turn on them
-- Convince Orcs that Tanarukk is under Triad's control / will turn on the Orcs
-- Kill Tanarukk and assume control of the Orcs through display of power
+- *Stealth*
+  - party as whole makes Stealth check
+  - if party average beats random encounter's average passive perception, they avoid the encounter
+  - otherwise...
+    - thru Strael Mountains
+      - random encounter: **Griffon Encounter**
+      - every travel segment, players must succeed DC12 (DC8 for Grimdash) Constitution saving throw or gain a level of exhaustion
+    - thru Orcish Territory
+      - random encounter: **Orcish Patrol Encounter**
+    - within 3 miles of Urkugh, Midmire, or Fool's Hope; or 6 miles of Straflan Ruins
+      - random encounter: **Orcish Patrol Encounter**
+      - party's stealth must beat contested perception (w/ advantage)
+    - within 3 miles of Crumbled Cave
+      - random encounter: **Mouth of Grolantor Encounter** (ogre zinoplasm experiment gone wrong)
+      - party's stealth must beat contested perception (w/ advantage)
 
 
-## Wildling - Orcish War
+## Griffon Encounter
 
-- Keros would help party (if asked)
-
-- Unite the wildling population (Kilkenny, Ducelden, and Millstone) to go to war against the Orcs to take back their homeland
+- 2-4 griffons in a hunting party ambush party
+- DC13 persuasion/animal handling to convince griffons to end encounter
+- Nat20 to be temporary mounts
+- advantage on check if offering griffons meat
+- disadvantage on check if Grimdash is wild shaped
 
 
 ## Orcish Patrol Encounter
 
- - 2d6 Red Fangs of Shargaas on Giant Bats ambush them
- - if party defeats orcs, go to **Trial by Combat**
+- 2d6 Red Fangs of Shargaas on Giant Bats armed with zinoplasm weapons ambush them
+  - **[!!!]** zinoplasm weapons will make the Zinoti Amulets vibrate
+- Insight DC13 reveals orcs don't seem to be striking to kill
+- if party defeats orcs, go back to previous scene
+- if party is defeated, they start **Orcish Imprisonment**
+
+
+## Orcish Imprisonment
+
+- party is imprisoned in Straflan Sewers, watched by cave bears with 2d6 wildling slaves
+- talking to a Slave Lusel reveals where they are
+  - the sewers beneath the Straflan Ruins
+  - the sewers form a network of orcish communities
+  - this community is central and is home to the war chief
+- once done talking to slave(s), orcs come to take party to **Trial by Combat**
 
 
 ## Trial by Combat
 
-- will have to fight Tanarukk in the Straflan Ruins colosseum
+- will have to fight Zilug (Tanarukk) in the Straflan Ruins colosseum
 - colosseum would still have pit of zinoplasm that was used to create the Tanarukk
-- might need to balance with either multiple Tanarukks or more orcs?
-
-
-## Party's Imprisonment
-
-- when party takes rest within 10 miles of Straflan Ruins, 
 
 
 # Return to Lillied
