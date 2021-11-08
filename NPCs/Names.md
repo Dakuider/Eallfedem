@@ -2,17 +2,17 @@
 
 Camus Krisqen
 Velethuil Rorona
-Arlen Olokrana
+Arlen Olokrana - cook at fort soleil
 Tanyl Keakrana
 Illithor Farwynn
 
 Esta Elabella
 Madris Jozeiros
-Vasati Zinrora
+Vasati Zinrora - mage at fort soleil
 Aelua Olafina
 Maylin Xyrwynn
 
-# Human Names
+# Florir Human Names (Celtic Welsh)
 
 Finian Omnes - guard at the gate 
 Stefan Audigou
@@ -50,18 +50,30 @@ Bor
 Atub
 Mog
 
-# Wildling Names
+# Wildling Names (Cavemen)
 
-Hyokr
-Fudden
-Hrikaus
-Julll
-Auden
-Moddgimm
+Zerc
+Krugnu
+Krakzud
+Rallolk
+Oner
 
-Sves
-Anva
-Kisif
-Nordeafa
-Jo
-Wuhea
+Trelnol
+Jana
+Skaarli
+Feyro
+Misua
+
+# Kumerovian Names (Czech)
+
+Pavel
+Matyas
+Roland
+Albert
+Silvestr
+
+Sara
+Radmila
+Zita
+Elena
+Barbora
