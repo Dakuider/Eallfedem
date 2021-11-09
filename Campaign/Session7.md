@@ -3,17 +3,9 @@
 - Malak is at threshold of 1-2 for wild surges
 - Everyone has waited out their exposure to zinoplasm
 
-- **[TODO]** Finish map of Straflan Sewers
-- **[TODO]** Create battle map for Zilug's chambers
-- **[TODO]** Find/create generic mountain battle map
-- **[TODO]** Find/create generic plains battle map
-- **[TODO]** Find/create colosseum (w/ zinoplasm pit) battle map
 - **[TODO]** Add Kumerovian aide token and char sheet
   - **[TODO??]** Flesh out Kumerovian aide character for if they recognize Elyas
 - **[TODO]** Add Blade of Illenval token and char sheet
-- **[TODO]** Add Griffons token and char sheet
-- **[TODO]** Add Red Fang token and char sheet
-- **[TODO]** Add Zilug token and char sheet
 
 
 ## Grimdash' Druidic Callings
@@ -66,34 +58,7 @@
   - however, moving through Orcish territory will be dangerous
 
 
-## Assassination of Zilug
-
-- once within 5 miles of Straflan Ruins, party should make a stealth check
-  - if they don't, *go to* **Orcish Patrol Encounter**
-- sewer entrance is about five hundred feet south of the bridge to the Straflan Ruins
-  - there will be Red Fangs of Shargaas guarding the sewer that the party will need to deal with
-  - *go to* **Orcish Patrol Encounter**
-
-- if party manages to defeat the Orcish Patrol, they'll need to stealth through the main area of the Straflan Sewers
-  - this will likely be impossible unless the party either
-    - waits till deep in the night for orcs to cycle to sleep
-    - disguises themselves as Red Fangs (DC18 deception/disguise kit)
-
-
-## Disguise as Kumerovian Emissary
-
-- persuading enemies for this challenge will require beating their Wisdom stat
-  - good role playing / decisions will result in advantage on Persuasion/Deception checks
-  - poor role playing / decisions will result in disadvantage on Persuasion/Deception checks
-- party will need to make their way past
-  - regular orc guards at the border of Straflan Ruins
-  - Blade of Illenval in Straflan Sewers Common Area
-  - Kumerovian aide outside Zilug's chambers
-    - Elyas can gain advantage here if he mentions the "Knowledge is Power" phrase in Kumerovian
-    - Elyas will be recognized as his father on a DC18 "luck" check
-
-
-## Sneak Past Orcish Problem
+## Travelling Through Orcish Territory
 
 - Roll for weather at beginning of each day based on DMG 109
 - If party continues to travel after combat, each travel segment they must succeed a DC12 Constitution saving throw or gain a level of exhaustion
@@ -129,14 +94,48 @@
       - random encounter: **Mouth of Grolantor Encounter** (ogre zinoplasm experiment gone wrong)
       - party's stealth must beat contested perception (w/ advantage)
 
+### Elyas and Malak Travel to Straflan
 
-## Griffon Encounter
+- stealth rolls
+  - Elyas - 10
+  - Malak - 3
+  - avg 6.5
+- perception rolls
+  - Elyas - 20
+  - Malak - 19
+- Elyas used disguise kit (rolled 9) to cover Malak's ears
+- 9 Red Fang Orcs riding Giant Bats surround Elyas and Malak
 
-- 2-4 griffons in a hunting party ambush party
-- DC13 persuasion/animal handling to convince griffons to end encounter
-- Nat20 to be temporary mounts
-- advantage on check if offering griffons meat
-- disadvantage on check if Grimdash is wild shaped
+### Grimdash and Keros Travel to Straflan Sewers
+
+- nothing of note happens while they're traveling the river
+- they enter the sewers
+
+
+## Disguise as Kumerovian Emissary
+
+- persuading enemies for this challenge will require beating their Wisdom stat
+  - good role playing / decisions will result in advantage on Persuasion/Deception checks
+  - poor role playing / decisions will result in disadvantage on Persuasion/Deception checks
+- party will need to make their way past
+  - regular orc guards at the border of Straflan Ruins
+  - Blade of Illenval in Straflan Sewers Common Area
+  - Kumerovian aide outside Zilug's chambers
+    - Elyas can gain advantage here if he mentions the "Knowledge is Power" phrase in Kumerovian
+    - Elyas will be recognized as his father on a DC18 "luck" check
+
+### Elyas and Malak Pose as Kumerovians
+
+- party members explain that they're Kumerovians that were out exploring the Orcish territory
+- they're on their way back to Straflan because they were accosted by "beasts" to the north
+- party members explain their names are Rivas and Butthead
+- Elyas persuades Tarfu and his scouts to fly them to Straflan Colosseum
+- Elyas casts _firebolt_ at the pit of zinoplasm in the center of the colosseum
+  - results in minor explosion as the zinoplasm interacts with the magic
+- Malak jumps in the zinoplasm and activates his Radiant Consumption ability
+  - results in **massive** explosion
+  - zinoplasm splashes all over the colosseum, lightning arcs following the dispersion
+  - huge modulated/distorted "boom" that can be heard all throughout Straflan
 
 
 ## Orcish Patrol Encounter
@@ -146,6 +145,43 @@
 - Insight DC13 reveals orcs don't seem to be striking to kill
 - if party defeats orcs, go back to previous scene
 - if party is defeated, they start **Orcish Imprisonment**
+
+
+## Assassination of Zilug
+
+- once within 5 miles of Straflan Ruins, party should make a stealth check
+  - if they don't, *go to* **Orcish Patrol Encounter**
+- sewer entrance is about five hundred feet south of the bridge to the Straflan Ruins
+  - there will be Red Fangs of Shargaas guarding the sewer that the party will need to deal with
+  - *go to* **Orcish Patrol Encounter**
+
+- if party manages to defeat the Orcish Patrol, they'll need to stealth through the main area of the Straflan Sewers
+  - this will likely be impossible unless the party either
+    - waits till deep in the night for orcs to cycle to sleep
+    - disguises themselves as Red Fangs (DC18 deception/disguise kit)
+
+### Grimdash and Keros Enter Straflan Sewers
+
+- stealth rolls
+  - Keros - 17
+  - Grimdash - 4
+  - avg 10.5
+- there are 2 Red Fang Orcs guarding the entrance
+  - perception rolls 9.5 avg
+- Grimdash perceives the two Orcs and waits for signal from the other party members
+
+- Grimdash and Keros can hear Tarfu and his two scouts returning through the entrance to the sewers
+- everyone hears the explosion that Malak causes at the colosseum
+  - 2 Red Fang Orc guards perk up and turn towards noise
+
+
+## Griffon Encounter
+
+- 2-4 griffons in a hunting party ambush party
+- DC13 persuasion/animal handling to convince griffons to end encounter
+- Nat20 to be temporary mounts
+- advantage on check if offering griffons meat
+- disadvantage on check if Grimdash is wild shaped
 
 
 ## Orcish Imprisonment
