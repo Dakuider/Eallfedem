@@ -2,25 +2,29 @@
 
 Camus Krisqen
 Velethuil Rorona
-Arlen Olokrana - cook at fort soleil
 Tanyl Keakrana
 Illithor Farwynn
+Rolim Kelrie
 
 Esta Elabella
 Madris Jozeiros
-Vasati Zinrora - mage at fort soleil
 Aelua Olafina
 Maylin Xyrwynn
+Vanya Orilamin
 
 # Florir Human Names (Celtic Welsh)
-
-Finian Omnes - guard at the gate 
+ 
 Stefan Audigou
 Erwan Jaffre
+Emhyr Howells
+Jac Prowell
+Niclas Badders
 
 Morwenna Thoraval
 Hilda Homme
 Sarah Ree
+Arwen Badham
+Mari Harris
 
 # Halfling Names
 
@@ -39,10 +43,10 @@ Cara Sackville
 # Orc Names
 
 Borug
-Tarfu
 Taugh
 Gul
 Gaakt
+Vitgut
 
 Ushat
 Dura
