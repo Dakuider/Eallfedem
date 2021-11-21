@@ -18,20 +18,35 @@ Rather than fight Avnal, they decided to make a pact with Avnal:
   - their offspring if they inherited the sorcerous power
   - the next most powerful magic user, granted new sorcerous power by Avnal
 
-## Elyas' Birth: 4262AE
+## Status of The Three: pre-4262AE
 
-- Elyas' dad Murtaz is one of The Three and his mother Sonya is a Kumerov researcher.
+ - Murtaz Kroft (human, male, 40s)
+   - leader of research
+   - main focus: zinoplasm research
+     - pursues zinoplasm experiments on animals
+   - father of Elyas
+ - Luděk Řezníček (human, male, 20s)
+   - leader of fighting force
+   - main focus: brute force, weapons development
+     - wants to create alliance with orcs
+ - Vendelín Švec (human, male, 30s)
+   - slave master to wildling slaves
+   - main focus: torturous magic, control
+
+## Elyas' Birth and Zoya's Betrayal: 4262AE
+
+- Elyas' dad Murtaz is one of The Three and his mother Sonya Kroft is a Kumerov researcher.
 - Murtaz was first to have the idea to experiment with zinoplasm on animals.
-  - Yelena Kasradze was his apprentice, but wanted to steal his work/credit and killed him during one of the experiments.
-  - Yelena takes Murtaz' place on The Three.
+  - Zoya Malíková was his apprentice, but wanted to steal his work/credit and killed him during one of the experiments.
+  - Zoya takes Murtaz' place on The Three.
 - Sonya feared for her and Elyas' life so she ran away shortly after this.
 
 ## Devden's Discovery: 4272AE
 
-Malak's mother Zoya is one of the Kumerov researchers.
-The Order of the Tome sensed Avnal's power growing, but were unsure of what it was and sent Malak's father Devden to investigate.
-Realizing the danger posed by the Order of the Tome, The Three satiated Deven's questions about the zinoplasm resources without telling him _why_ they were researching.
-During his time there, Devden ended up falling in love with Malak's mother Zoya, a researcher.
+Malak's mother Zoya Malíková is one of The Three.
+The Order of the Tome sensed Avnal and The Three's power growing, but were unsure of what it was and sent Malak's father Devden to investigate.
+Realizing the danger posed by the Order of the Tome, Zoya satiated Deven's questions about the zinoplasm resources without telling him _why_ they were researching.
+During his time there, Devden ended up falling in love with Zoya.
 
 ## Elyas Skips Town: 4272AE
 
@@ -39,9 +54,8 @@ Elyas accidentally kills his friend at the age of 9 using his latent sorcerous p
 
 ## Malak's Birth: 4273AE
 
-While Malak is growing inside Zoya, she allows Yelena to conduct experiments because of the latent magical power that resides in elven blood.
-Malak's birth was gruesome due to the magic caused by these experiments and Zoya died in childbirth.
-  - **[REVIEW]**: does she though? Devden said otherwise...
+While Malak is growing inside Zoya, she conducts experiments because of the latent magical power that resides in elven blood.
+Malak's birth was gruesome due to the magic caused by these experiments and left Zoya bedridden 
 Enraged by being lied to, and fearing for Malak's safety, Devden fled with Malak to Tomespire.
 Thinking it would be the safest place, Devden left Malak in the hands of the Mirhem Academy while he continued his own research on zinoplasm.
 
