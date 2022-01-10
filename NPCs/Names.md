@@ -42,11 +42,11 @@ Cara Sackville
 
 # Orc Names
 
-Borug
+Ughat
 Taugh
 Gul
 Gaakt
-Vitgut
+Dilug
 
 Ushat
 Dura
