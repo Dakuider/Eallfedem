@@ -198,17 +198,17 @@ A magic object hit by this spell follows the rules for rolling _4-5_ on the tabl
 When this spell is cast using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Platinum Pulsar
-_Quarterstaff, rarity unknown, (requires attunement by a spellcaster)_
+_Wand, rarity unknown_
 
-A staff made of platinum alloy magically woven around a core of zinoplasm.
+A wand made of platinum alloy magically woven around a core of zinoplasm.
 You gain a +1 bonus to attack and damage rolls with this magic weapon and it deals lightning damage instead of bludgeoning.
 
-This staff has 6 charges.
+This wand has 6 charges.
 While holding it, you can use an action to expend 1 or more of its charges to cast the _zinobolt_ spell from it (1 charge per spell slot level used).
-The staff gains all expended charges daily at dawn.
+The wand gains all expended charges daily at dawn.
 
-If you expend the staff's last charge, roll a d20.
-On a 1, the staff explodes in a ball of lightning energy that expands out from you in a 20 foot radius.
+If you expend the wand's last charge, roll a d20.
+On a 1, the wand explodes in a ball of lightning energy that expands out from you in a 20 foot radius.
 Creatures inside the lightning must make a Dexterity saving throw (DC13).
 On a failed save, the creature takes 2d8 lightning damage.
 On a successful save, it takes half as much.
