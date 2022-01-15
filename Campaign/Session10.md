@@ -1,7 +1,23 @@
 
 ## Notes
 
-- Malak is at threshold of 2 for wild surges
+- Malak is at threshold of 3 for wild surges
+
+- Malak
+  - zino exposure: 37 _ddm_
+  - blink: 10 rounds
+
+- Elyas
+  - zino exposure: 84 _ddm_
+  - 
+- Grimdash
+  - zino exposure: 17 _ddm_
+
+- Keros
+  - zino exposure: 25 _ddm_
+
+- Ludek
+  - blade ward - resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks: 1 round
 
 
 ## Escaping the Collapsing Sewers
