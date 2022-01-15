@@ -17,24 +17,24 @@ Currently, he's overseeing the alliance with the Orcs and serving as an envoy to
 
 ## Interaction
 
-_How do they respond to conversation?_
-_What's unique about their personality?_
+Very **arrogant** and **dismissive** of party's chances of success in defeating him/Avnal.
 
 
 ## Goal
 
-_What do they want?_
-_What do they need in order to achieve this goal?_
+He wants to kill the party and recruit Elyas to be with the Kumerovians.
 
 
 ## Conflict
 
-_Who or what is in their way of their goal?_
-_What are they bad at?_
+The party is obviously in the way of this, and he'd need to convince Elyas to betray his friends.
 
 
 ## Why do PCs care?
 
+He'll let the party in on more of the plan:
+  - praise for Avnal and excitement for the planned experiment
+  - tells Elyas who his father was (and how it was rather mysterious that he died during an experiment with Zoya).
 _Do they have a rumor or secret to share?_
 _Will this lead to a side quest or continue main plot?_
 _Do they possess a magical item or secret the PCs would be interested in?_
