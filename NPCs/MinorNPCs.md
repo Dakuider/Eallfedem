@@ -17,3 +17,11 @@
 **Tarfu**
 - leader of Red Fang patrol at the Straflan Sewers
 - he and two of his scouts flew Elyas (Rivas) and Malak (Butthead) to Straflan Colosseum
+
+
+**Vitgut**
+- orc that stood to the right of Ludek
+
+
+**Borug**
+- orc that stood to the left of Ludek
